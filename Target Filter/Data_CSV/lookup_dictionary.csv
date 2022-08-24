@@ -1,0 +1,876 @@
+﻿unique_1.4,corrected_1.4,unique_4.1.1,corrected_4.1.1,unique_4.1.2,corrected_4.1.2,unique_4.2.1,corrected_4.2.1,unique_4.2.2,corrected_4.2.2,unique_4.5.1,corrected_4.5.1,unique_4.5.2,corrected_4.5.2,unique_4.5.3,corrected_4.5.3,unique_4.5.4,corrected_4.5.4,unique_5.3,corrected_5.3,unique_5.5,corrected_5.5,unique_5.7,corrected_5.7,unique_5.9,corrected_5.9,unique_4.3.4,corrected_4.3.4,unique_4.3.3, corrected_4.3.3,unique_4.3.1,corrected_4.3.1,unique_4.3.2,corrected_4.3.2
+all businesses,businesses,childcare,childcare centres,other,other,business,all businesses,businesses,all businesses,transport,public transport,curfew,partial curfew,all,cordon sanitaire,cordon sanitaire,all borders,EU,EU,test,pcr-test,EU,EU,single country,single border,0,0,0,0,0,0,0,0
+business,businesses,childcare centre,childcare centres,kindergarten,kindergarten,businesses,all businesses,essential businesses,essential businesses,inter-regional,inter-regional travel,weekend curfew,weekend curfew,all travellers,cordon sanitaire,inter-regional travel,,all,all countries,all countries,new target needed?,all,all countries,multiple countries,multiple borders,gatherings,all gatherings ,1,1,1,1,1,1
+businesses,businesses,childcare centres,childcare centres,news,news,essential business,essential businesses,non-essential business,non-essential businesses,inter-regional transport,inter-regional transport,age group,age group,test,pcr-test,domestic flights,,all travel,all travellers,EU,EU,all flights,all countries,family,other,event,all events ,5,5,10,10,5,5
+zones,zones,secondary,secondary schools,childcare,childcare centres,ssential businesses,essential businesses,non-essential businesses,non-essential businesses,test,screening,zone,zones,vaccinated,vaccinated,essential travel,essential travel,quarantine,,news,news,limted flights,limited flights,vaccinated,vaccinated,events,all events ,10,10,2,2,10,10
+age group,age group,schools,all schools,childcare centres,childcare centres,essential businesses,essential businesses,recreatio,recreation,pcr-test,screening,vaccinated,vaccinated,high-risk areas,multiple areas,non-essential travel,non-essential travel,Non-EU,non-EU,PCR,pcr-test,Non-EU,non-EU,vietnam,Vietnam,all ,all events ,gatherings,all gatherings ,5,5,wedding,weddings
+vaccinated,vaccinated,primary,primary schools,non-covid,non-covid,non-essential business,non-essential businesses,recreation,recreation,vaccinated,vaccinated,unvaccinated,unvaccinated,inter-regional travel,,zones,zones,non-EU,non-EU,all travelers,all travellers,all travel,all countries,all countries,all borders,5,5,50,50,All gatherings,all gatherings,weddings,weddings
+news,news,screening,screening,secondary,secondary schools,non-essential businesses,non-essential businesses,religion,religion,residents,residents,vulnerable groups,vunerable groups,Victoria,Victoria,quarantine,,business travel,Business,pcr test,pcr-test,news,news,news,news,50,50,2,2,all gatherings,all gatherings,2,2
+spaces,public spaces,kindergartens,kindergarten,schools,all schools,religion,religion,venues,venues,forms,forms,non-essential travel,,vaccine,vaccinated,test,pcr-test,news,news,high risk countries,high-risk countries,Hong Kong,Hong Kong,business,business travel,10,10,all gatherings,all gatherings,household,household,50,50
+vaccine,vaccinated,post-secondary,post-secondary schools,secondary school,secondary schools,all,all businesses,all,all businesses,non-resident,non-residents,age groups,age group,Wuhan,Wuhan,victoria,Victoria,medium-risk,multiple countries,zones,multiple countries,pcr-test,pcr-test,pcr-test,pcr-test,all events,all gatherings ,100,100,zones,zones,funeral,funerals
+everyone,,test,screening,post-secondary,post-secondary schools,recreatio,recreation,all businesses,all businesses,screening,screening,cordon sanitaire,,medium-risk areas,multiple areas,all countries,,high risk countries,high-risk countries,quaratine,quarantine,high risk countries,high-risk countries,bosnia,Bosnia,all gathering,all gatherings ,zones,zones,6,6,gatherings,all
+public,public spaces,kindergarden,kindergarten,primary,primary schools,recreation,recreation,other,other,non-residents,non-residents,non-covid,non-covid,NSW,New South Wales,pcr-test,pcr-test,test,pcr-test,rapid test,antigen test,limit flights,limited flights,most borders,multiple borders,all gatherings,all gatherings ,>10,10,3,3,20,20
+>12,,tests,screening,state,,all businesses,all businesses,news,news,road closures,road closures,<18,,restricted exit,,new south wales,single border,non-schengen,non-Schengen,Taiwan,Taiwan,single county,single country,EU,EU,2,2,25,25,15,15,3,3
+>2,,secondary school,secondary schools,Not known,,venue,venues,vaccinated,vaccinated,quarantine,,non-essential business,,all areas,cordon sanitaire,all travellers,,non-eea,non-EEA,medium-risk countries,new target needed?,all borders,,all travellers,all borders,100,100,All gathering,all gatherings,4,4,0 wedding,weddings
+vaccines,vaccinated,secondary education,secondary schools,kindergartens,kindergarten,venues,venues,age groups,,essential travel,essential,paritial curfew,partial curfew,residents,non-residents,private transport,other,all travelers,all travellers,Hong Kong,Hong Kong,dubai,Dubai,high -risk countries,,All gathering,all gatherings ,All gatherings,all gatherings,NA,,15,15
+public space,public spaces,post-secondary education,post-secondary schools,kindergarden,kindergarten,vaccinated,vaccinated,non-esssential,non-essential businesses,pass,covid-pass,zones zones,zones,Brisbane,Brisbane,multiple borders,partial borders,medium-risk countries,multiple countries,quarantine,quarantine,mulitple countrie,multiple countries,all flights,,All gatherings,all gatherings ,indoor,indoors ,20,20,0 weddings,weddings
+>12,,state,,staff,staff,other,other,non essential,non-essential businesses,age group,age group,partial cutfew,partial curfew,pcr-test zones,"pcr-test, zones",road closures,partial borders,Schengen,Schengen,low risk countries,low-risk countries,non-EU,non-EU,Georgea,Georgia,zone,zones,outdoor,outdoors ,bubble,household,>1,1
+>6,,non-covid,non-covid,higher education,post-secondary schools,covid pass,covid-pass,entertainmen,entertainment,inter district,inter-regional travel,curfews,partial curfew,Queensland,Queensland,northwest territories,northwest territories,screening,pcr-test,vaccination,vaccinated,mutlple countries,multiple countries,other,other,zones,zones,20,20,50,50,30,30
+all,,pcr-tests,screening,kindergardens,kindergarten,news,news,entertainent,entertainment,cordone sanitare,cordon sanitaire,night curfew,partial curfew,Sydney,Sydney,restricted exit,,EU citizens,EU,non-EU,non-EU,single countr,single country,transit,other,500,500,>5,5,30,30,100,100
+>13,,post secondary,post-secondary schools,seconday schools,secondary schools,non- essential business,non-essential businesses,hospiatlity,hospitality,covid pass,covid-pass,civil unrest,non-covid,queensland,Queensland,forms,,pcr-tes,pcr-test,multple countries,multiple countries,Schengen,Schengen,kazakistan,Kazakhstan,?500,500,outdoors,outdoors ,>10,10,zones,zones
+>5,,seconadry schools,secondary schools,Childcare centres,childcare centres,test,screening,entertainment,entertainment,news,news,news,news,new south wales,New South Wales,north cyprus,north cyprus,zones,multiple countries,antigen test,antigen test,cap,multiple countries,eea,EEA,25,25,indoors,indoors ,2 households,2 households,outdoor,outdoors
+exercise,exercise,primary school,primary schools,all school,all schools,pcr-test,screening,transport,other,PCR-test,screening,stay-at-home,stay at home,greater Brisbane,Greater Brisbane,south cyprus,south cyprus,age group,,Guangzhou,china (Gaungzhou),Tanzania,Tanzania,eu and schengen countries,Schengen,outdoor,,3,3,3 households,3 households,all gatherings,all
+crowded spaces,public spaces,all school,all schools,education TV,other,most businesses,some businesses,sports,fitness,tests,screening,form,,borders,,greater Melbourne,greater melbourne,pcr-test,pcr-test,quarantines,quarantine,cargo,other,and south africa,South Africa,0,1000,>50,50,1 household,1 household,6,6
+healthcare workers,staff,Kindergartens,kindergarten,post-secondary school,post-secondary schools,hospiatlity,hospitality,hopsitality,hospitality,vaccine,vaccinated,stay at home,stay at home,citizens,non-residents,amazonas,amazonas,mutliple countries,multiple countries,tests,pcr-test,mulitple countries,multiple countries,high risk countries,,sport,some events ,>2,2,25,25,25,25
+travellers,non-residents,kindergaten,kindergarten,all eduction,all education,hospitalty,hospitality,essential services,essential businesses,65,,non-residents,,cordon sanitare,cordon sanitaire, northwest territories,northwest territories,essential travel,essential travel,essential travel,,United Kingdom,UK,students,other,outdoors,,0 indoor,0 indoors ,bubbles,household,>10,10
+indoor public spaces,indoor spaces,vaccination,vaccinated,Universities,post-secondary schools,education,,commercial,retail,pcr-tests,screening,non-essential businesses,,Hubei,Hubei,other,,non-eu,non-EU,PCR test,pcr-test,Itlaly,Italy,gaza strip,OPT (Gaza Strip),indoors,indoors ,15,15,100,100,indoor,indoors
+age group>13,age group,seconadary schools,secondary schools,some schools,zones,age group,,some businesses,some businesses,50%,,partial curfews,partial curfew,Ruili,Ruili,Kimberley,zones,business travellers,business,Guangdong,China (Guangdong),single countryKorea,"single country, Korea",gremany,Germany,sports,some events ,sport,some gatherings,outdoors,,All gatherings,all
+no policy,no policy,unvaccinated,unvaccinated,vaccines,vaccinated,recovered,covid-pass,entertainement,entertainment,all travel,non-essential travel,recommended,,high risk areas,multiple areas,covid-pass,covid-pass,form,forms,non-essential travel,,vaccinated,vaccinated,luxenburg,Luxenbourg,20,20,30,30,>6,6,4,4
+indoor spacess,indoor spaces,kindergardens,kindergarten,inter-regional transport,,age groups,,unvaccinated,unvaccinated,citizens,residents,pcr testing,screening,qingdao,Qingdao,vaccinated,vaccinated,pcr-tests,pcr-test,Schengen,Schengen,recovered,covid-pass,entry cap,other,>10,10,events,,>2,2,outdoors,outdoors
+other,other,pass,covid-pass,inter-regional travel,,sports,fitness,recretaion,recreation,>65,,pcr-test,screening,all borders,cordon sanitaire,screening,screening,borders,neighbouring countries,covid pass,covid-pass,multple countries,multiple countries,quarantine,,1000,1000,0 indoors,0 indoors ,>5,5,>5,5
+unvaccinated,unvaccinated,primary schoos,primary schools,post-seconday schools,post-secondary schools,tertainment,entertainment,office,offices,single area,zones,non-essesntial travel,,non-citizens,non-residents,inter-regional,Inter-regional travel,Taiwan,Taiwan,symptoms,symptomatic,private flights,other,individual cases,other,capacity,,250,250,two households,2 households,household,household
+all travellers,non-residents,all educatio,all education,not covid,non-covid,50,,non-essential travel,,non-essential,non-essential travel,non- essential travel,,asymptomatic,other,tranel,Inter-regional travel,state,,testing,pcr-test,PCR tests,pcr-test,baltic region,Baltic region,250,250,sports,some gatherings,9,9,>2,2
+outdoor space,outdoor spaces,post secondary schools,post-secondary schools,non-covid measure,non-covid,office,offices,entertinament,entertainment,50% capacity,public transport,stay at home zones,"stay at home, zones",New South Wales,New South Wales,inter-regonal transport,Inter-regional transport,non-symptomatic,,state,,US,US,baltic states,Baltic region,public event,,4,5,>15,15,NA,
+religious,businesses,antigen tests,screening,kindergartdens,kindergarten,non essential business,non-essential businesses,pcr-test,screening,partial curfew,,children,age group,QLD,Queensland,news,news,pcr test,pcr-test,PCR- test,pcr-test,vietnam,Vietnam,low-risk countries,,3,3,<10,10,12,12,Weddings,weddings
+>11,age group,kindergarterns,kindergarten,all schoools,all schools,some businesses,some businesses,restaurants,hospitality,<20,,screening,screening,WA,Western Australia,,,eu citizens,EU,recovered,covid-pass,multiple countries; UK,"multiple countries, UK",brazil and south africa,"Brazil, South africa",>2,2,>25,25,6 indoors,6 indoors,50 weddings,50 weddings
+tansport,transport,higher education,post-secondary schools,secondary shcools,secondary schools,entertainmen,entertainment,non-essential retail,retail,inter-regonal transport,inter-regional transport,borders,,testing,pcr-test,,,high -risk countries,high-risk countries,rapid-test,antigen test,Porugal,Portugal,multiple countries. Most borders,multiple borders,public events,,6,6,non-family,,baptism,baptism
+private spaces,indoor spaces,secondary scchools,secondary schools,one college,"post-secondary schools, zones",entertainent,entertainment,hospitalitybeauty,"beauty, hospitality",unvaccinated,unvaccinated,all travellers,,non-resident,non-residents,,,Students,education,qurantine,quarantine,all travellers,all countries,PCR-test,pcr-test,mass gathering,all gatherings ,500,500,>8,8,households,household
+cases,symptomatic,post-secondary schoos,post-secondary schools,pcr-test,screening,healthcare,health,education,,multiple areas,zones,public transport,,hubei,Hubei,,,United Kingdom,UK,vaccination certificate,vaccinated,all shipping,other,Irak,Iraq,mass gatherings,all gatherings ,?500,500,<10,10,baptisms,baptism
+indoors spaces,indoor spaces,zone,zones,primary schools. Other,"primary schools, other",screening,screening,enertainement,entertainment,pcr test,screening,funerals,,Shanxi,Shanxi,,,multple countries,multiple countries,pcr-tests,pcr-test,europe,EU,laos,Laos,>5,5,religion,some gatherings,bubble only,,0 indoor,0 indoors 
+crowded public spaces,public spaces,essential workers,staff,prmioary schools,primary schools,entertaiment,entertainment,multiple,some businesses,masks,,variant of concern,zones,low-risk areas,multiple areas,,,All flights,,non-Schengen,non-Schengen,non-EU countries,non-EU,mutiple borders,multiple borders,30,30,religious,some gatherings,vaccinated,vaccinated ,50 funerals,50 funerals
+non-residents,non-residents,students,,others,other,entertainments,entertainment,non-essential busineeses,non-essential businesses,inter-region travel,inter-regional travel,drill,,qingdao city,Qingdao,,,non-vaccinated,unvaccinated,business travel,business,multiplecountries,multiple countries,Sierra-Leone,Sierra-Leone,200,200,200,200,>50,50,>6,6
+clinically vulnerable,vunerable groups,high school,secondary schools,seconadry schools,secondary schools,zone,zones,entertainment fitness,"entertainment, fitness",checkpoints,road closures,construction personel,,Longchuan,Lonhcguan,,,multple countires,multiple countries,self-isolation,quarantine,commercial,other,tunsia,Tunisia,0 indoors,0 indoors ,>100,100,holiday gatherings,,5 weddings,5 weddings
+religion,businesses,summer schools,other,Kindergarten,kindergarten,essential bussinesses,essential businesses,entertaainment,entertainment,non-essentional travel,non-essential travel,state of Emergency,,contacts,other,,,non citizens,non-citizens,screeening,screening,multiple ountries,multiple countries,guinea bissau,Guinea-Bissau,>50,50,1000,1000,social bubbles,household,religious,religion
+children,age group,al schools,all schools,post secondary,post-secondary schools,entertinament,entertainment,entertaiment,entertainment,high-risk groups,vunerable groups,all education,,yunnan,Yunnan,,,all travllers,all travellers,non-vaccinated,unvaccinated,postal,other,south america,South America,>25,25,household,household,indoor gatherings,indoor gatherings,0 indoors,0 indoors 
+fitness,businesses,kingergarten,kindergarten,child care centres,childcare centres,Hopsitality,hospitality,reatil,retail,students,students,moscow,,kashgar,Kashgar,,,non-EU,non-EU,mulitple countries,multiple countries,seasonal workers,other,Cypriot Turkish land border,,sports events,some events ,>20,20,>6 gardens,6,<10,10
+>12 yrs,,kinergarten,kindergarten,COVID pass,covid-pass,esential business,essential businesses,non-essential services,non-essential businesses,medium-risk area,multiple areas,saint petersburg,,inter-regional transport,"public transport, private transport",,,recovered,covid-pass,Shenzhen,China (Shenzhen),EEA,EEA,Norway and Finland,"Norway, Finland",50%,50% capacity ,10 indoor,10 indoors,>8 from 2 households indoors,8,150,150
+fines,,nursery schools,kindergarten,secondary shools,secondary schools,wholesale,retail,non-essnetial businesses,non-essential businesses,high-risk area,multiple areas,everyone,,tennessee,Tennessee,,,families,family,neighbouring countries,neighbouring countries,multiple countried,multiple countries,non-business,non-essential travel,15,15,5 indoor,5 indoors ,5 indoors,5 indoors,>50,50
+age groups,age group,preschools,kindergarten,yes,,entertainement,entertainment,healthcare,health,stay at home,non-essential travel,inter-regional travel,,non-esssential travel,non-essential travel,,,event,,facility-based,,single country; Russia,"single country, Russia",tanzania,Tanzania,Sport,some events ,50%,50% capacity ,<20,20,20 funerals,20 funerals
+men,other,age groups,,all  education,all education,entertainemnt,entertainment,routism,tourism,vulnerable groups,vunerable groups,intra regional,,South Australia,South Australia,,,age groups,,all travelers,all travellers,all education,,covid pass,covid-pass,300,300,50 outdoor,50 outdoors,news,news,>3,3
+sports,exercise,Universities,post-secondary schools,kindergten,kindergarten,social services,health,enetertainment,entertainment,all travellers,non-essential travel,high-risk individuals,vunerable groups,Greater Melbourne,Greater Melbourne,,,neighbouring countries,neighbouring countries,Guangzhou areas,china (Guangzhou),exit only,,inter-regional transport,,festival,some events ,50 indoor,50 indoors ,<9,9,20 (funerals),20 funerals
+masks,,COVID-19 pass,covid-pass,private schools,other,transport,other,entertainemnt,entertainment,all borders,,covid pass,covid-pass,forms. Pcr-test,"forms, pcr-test",,,non-eu countries,non-EU,business travellers,business,Taiwan,Taiwan,multiple borders; Brazil,"multiple borders, brazil",All events,all events ,150,150 indoors,all gatheringa,all gatherings,sports,sports
+vaccination status,vaccinated,all schoools,all schools,zone,zones,hopitality,hospitality,places of worship,religion,all transport,"public transport, private transport",partial lockdown,partial curfew,pcr-test. Multiple areas - QLD & NSW,"pcr-test, multiple areas",,,foreign nationals,residents,vaccine,vaccinated,symptomatic,other,tlokweng,Botswana (Tlokweng),vaccinated,vaccinated ,10 indoors,10 indoors,>100,100,>15,15
+> 6 yrs,,all schhols,all schools,post-secondary education,post-secondary schools,all busineses,all businesses,hairdressers,beauty,age groups,age group,sundays,weekend curfew,greater Sydney,Greater Sydney,,,business travelers,business,unvaccinated travellers,unvaccinated,Dubai,Dubai,essential travel,essential travel,cultural,some events ,7,7,>20,20,8,8
+open spaces,outdoor spaces,senior high schools,secondary schools,special needs education,other,Businesses,all businesses,offies,offices,business,,full crufew,full curfew,WA and Sydney,"Western Australia, Sydney",,,low risk countries,low-risk countries,Vaccine,vaccinated,Vaccine passport,covid-pass,all shipping,other,5%,5% capacity ,50 indoors,50 indoors ,60,60,religion,religion
+>8,,graduating year,,all educatio,all education,hospitlity,hospitality,justice,offices,zone,zones,symptomatic,,singel area,single area,,,single country,single country,education,education,medium-risk countries,multiple countries,all travel (border communities),all borders,150,150,>250,250,500,500,10 weddings,10 weddings
+trasport,transport,post-secondary school,post-secondary schools,all travellers,,government,offices,alcohol,other,inter-regional-travel,inter-regional travel, stay at home,stay at home,greater Perth,Greater Perth,,,brazil,Brazil,random sampling,screening,100 travelers max,other,iraq (kurdistan),Iraq (Kurdistan),>250,250,5 indoors,5 indoors ,15 outdoors,15 outdoors,30 funerals,30 funerals
+outdoor spaces spaces,outdoor spaces,technical,other,Nursery school closures,kindergarten,retails,retail,recreational,recreation,domestic travel,inter-regional travel,no measure,no policy,greater Melbourne,Greater Melbourne,,,antigen test,,two dose,vaccinated,mulutple countries,multiple countries, brazil,Brazil,>100,100,vaccinated,vaccinated ,four households,4 households,2 households,2 households
+indoorspaces,indoor spaces,vocational schools,other,Primary school closures,primary schools,retail,retail,beuaty,beauty,inter-regiional transport,inter-regional travel,clinically vulnerable,vulnerable groups,multiple areas,multiple areas,,,vaccines,vaccinated,single dose,vaccinated,brazil,Brazil, non-EU,non-EU,5000,5000,50 outdoors,50 outdoors,Private Gatherings,all gatherings,>20,20
+isolation,symptomatic,vaccinated adults,vaccinated,Secondary school closures,secondary schools,50%,,nonessential business,non-essential businesses,Wuhan,wuhan,vunerable groups,vulnerable groups,VIC,Victoria,,,Hubei,Hubei,sympomatic,symptomatic,mutliple countries,multiple countries, pcr-test,pcr-test,50% capacity,50% capacity ,public gatherings,some gatherings ,20 indoors,20 indoors,10 funerals,10 funerals
+public trasnsport,transport,exams,,Post-secondary school closures,post-secondary schools,ospitality,hospitality,recovered,covid-pass,civil servants,other,>60,"age group, 60",covid pass,covid-pass,,,covid pass,covid-pass,family,other,Tunisa,Tunisia,single country ,single country,festivals,some events ,NA,,childcare,,10 (funerals),10 funerals
+fronline workers,staff,secondaryeducation,secondary schools,colleges,post-secondary schools,retial,retail,Tourism & Hospitality,"hospitality, tourism",education,students,covid-pass,forms,road closures,other,,,vietnam,Vietnam,Macao,China (Macao),the Dominican Republic,the Dominican Republic,non-residents,non-residents,large,all events ,100 outdoor,100 outdoors,>10 2 households,10,40,40
+syptomatic,symptomatic,alleducation,all education,off campus,post-secondary schools,Worship centers,religion,entretainment,entertainment,inter-regional non-essential travel,"inter-regional travel, non-essential travel",forms,forms,<12 years old,,,,students,education,Shenzhen areas,China (Shenzhen),and Bolivia,Bolivia,Luxenbourg,"Luxembourg, single country",Sports,some events ,75,75,overnight stays,,250,250
+outbreak,symptomatic,child care,childcare centres,University,post-secondary schools,non- esential business,non-essential businesses,stay at home,,rapid test,screening,elderly,"age group, vulnerable group",dependents,other,,,self-isolation,,Foshan areas,China (Foshan),caribbean,Caribbean,OPT (Gaza Strip),"OPT, single country",75,75,Religious,some gatherings,all gatherings indoors,indoor ,and funerals,funerals
+sympomatic,symptomatic,kindergartden,kindergarten,elementary schools,primary schools,non-essential busineses,non-essential businesses,beaity,beauty,public tranpsort,public transport,no policy,no policy,asylum,other,,,low-risk,low-risk countries,Wenzhou,China (Wenzhou),nw zealand,New Zealand,Botswana (Tlokweng),"Botswana, single country",4,4,>3,3,in gardens,,200,200
+indoor spaces outdoor spaces,public spaces,all education zones,"all education, zones",all schols,all schools,events,venues,Enterinment,entertainment,covid pass.,covid-pass,private transport,Private transport,nanjing,Nanjing,,,high-risk,high-risk countries,areas in Dongguan,China (Dongguan),gulf states,Arab states of the Perisan Gulf,non essential travel,non-essential travel,religious,some gatherings ,>15,15,>0,all ,>25,25
+public tansport,transport,ckindergarten,kindergarten,public schools,other,essentil businesses,essential businesses,hospitaltiy,hospitality,symptomatic,other,inter-regional transport,inter-regional transport,Yunnan Dehong,Yunnan Dehong,,,symptoms,symptomatic travellers,zones Guangdong,China (Guangdong),all air travellers,,some borders,multiple borders,cultural events,some events ,8,8,indoors >50,50 indoors,5 outdoor,5 outdoors
+contacts,symptomatic,quarantine,,vaccination,vaccinated,non essential businesses,non-essential businesses,some non-essential businesses,some businesses,non-vaccinated,unvaccinated,news,news,meduim-risk areas,multiple areas,,,multile countries,multiple countries,Vietnam,Vietnam,All flights except cargo and repatriation,all countries,mutlple borders,multiple borders,religion,some gatherings ,5 outdoor,5 outdoors ,outdoors >100,100 outdoors,25 funerals,15 funerals
+>12 public spaces,public spaces,al education,all education,universities,post-secondary schools,non-essentilal businesses,non-essential businesses,social,health,vaccination certificate,covid-pass,stay at home partial curfew,"stay at home, partial curfew",technology enhanced,other,,,all borders,neighbouring countries,East Timor,Timor-Leste,most countries,multiple countries,all bordres,All borders,Sports events,some events ,100 outdoors,1000 outdoors,Home visits,,25 weddings,25 weddings
+care homes,health,foreign students,,secondary schools (upper),secondary schools,others,other,political gatherings,,non- essential travel,non-essential travel,patial curfew,partial curfew,quaranting,quarantine,,,single coumtry,single country,All travelers,all travellers,entry cap,other,Kazakstan,Kazakhstan,50 indoor,50 indoors,>10 indoor,10 indoors ,>20 home gatherings,20,50 outdoor,50 outdoors
+> 75,,seondary schools,secondary schools,secondary schools (lower),secondary schools,personal,beauty,non- essential,non-essential businesses,limited flights,domestic flights,,,guangzhou,Guangzhou,,,allcountires,all countries,single border,single country, brazil,Brazil,news,news,25%,25% capacity ,5 outdoors,5 outdoors ,>50 christmas,50,100 weddings,100 weddings
+beard,other,kindergten,kindergarten,daycare providers (not centres),childcare centres,NEWS,news,Recreation,recreation,non-essenial travel,non-essential travel,,,10,,,,schleswig-holstein,Germany (Schleswg-Holstein),vaccintated,vaccinated,covid-pass,covid-pass,multple borders,multiple borders,50 indoors,50 indoors,all events,,30 indoors,30 indoors,>30,30
+recovered people,covid-pass,primary  schools,primary schools,childcare centers,childcare centres,industrty,industry,vaccine passport,covid-pass,non-essential travels,non-essential travel,,,airport,,,,non-reseidents,non-residents,symptomatic travellers,symptomatic,Arab states of the Perisan Gulf,Arab states of the Perisan Gulf,non-covid,non-covid,All public events,some events ,50% capacity,50% capacity ,50 outdoors,50 outdoors,bubble,household
+symptoms,symptomatic,daycare centers,childcare centres,exemptions,,public places,,public transport,,airport,other,,,quarantine zones,"quarantine, zones",,,non-essential,non-essential travel,un-vaccinated,unvaccinated,rRussia,"russia, single country",Moroco,"single country, Morocco",40,40,>10 indoors,10 indoors ,10 indoors,10 indoors,weddings and funerals,"weddings, funerals"
+funerals,other,Nurseries and kindergartens,kindergarten,unvacciated,unvaccinated,EURO_1378508,,most businesses,some businesses,zones,zones,,,pcr-test single area,"pcr-test, single area",,,un-vaccinated,unvaccinated,on-eu,non-EU,Berlin,"germany, single country",,,conference,,sporting,some gatherings,25 outdoors,25 outdoors,20 weddings,20 weddings
+exceptions; <13,,language schools,other,zoens,zones,fitnes,fitness,COVID pass,covid-pass,publci transport,public transport,,,liaoning,Liaoning,,,multiple-countries,multiple countries,under 5,,news,news,,,pass,covid-pass,<5,5,September 18 holidays,,5 outdoors,5 outdoors
+beauty,businesses,nurseries,kindergarten,600,,hosptiality,hospitality,zons,zones,all education,,,,occupied territories,Occupied territories,,,multiple countires,multiple countires,high_risk countries,high-risk countries,new,news,,,test,pcr-test,sporting event,some gatherings,>30,30,5 indoor,5 indoors
+publci spaces,public spaces,VET,other,offices,offices,hospitaloty,hospitality,government offices,offices,recovered,covid-pass,,,themal screening,screening,,,health pass,covid-pass,screening,screening,,,,,conferences,,>30,30,weekends,,<2,2
+regions,zones,kinderkarten,kindergarten,all education],all education,entertianment,entertainment,tourism,tourism,interregional transport,inter-regional travel,,,check points,screening,,,vaccination,vaccinated,test positive,pcr-test,,,,,6,6,300,300,Family gatherings,household,12,12
+social distancing,public spaces,recovered,covid-pass,secondary  schools,secondary schools,>20%,,tourim,tourism,doemstic flights,domestic flights,,,offices,,,,single border,neighbouring countries,COVID positive,pcr-test,,,,,Mass gathering,all gatherings ,<50,50,Public transport & institutions,,30 weddings,30 weddings
+religious ceremonies,other,student resident halls,post-secondary schools,childcare centers,childcare centres,retail offices,"retail, offices",retaurant,hospitality,non-essental travel,non-essential travel,,,essential businesses,,,,all travellers through land borders,neighbouring countries,pcrtest,pcr-test,,,,,Mass gatherings,all gatherings ,sporting events,some gatherings,10 relatives,10,vaccinated,vaccinated 
+<50,,others,other,levels,years,gymns,fitness,markets,retail,New Year,,,,Northern Italy,Northern Italy,,,multiple borders,neighbouring countries,prc-test,pcr-test,,,,,25% capacity,25% capacity ,40,40,10 family members,10,burials,burials
+<100,,secodary schools,secondary schools,child care,Childcare centres,cultural,entertainment,75% capacity,,history high risk travel,other,,,pcr test,pcr-test,,,Crotatia,Croatia,wallis and fortuna,Wallis and Futuna,,,,,50 outdoor,50 outdoors,religious gatherings,some gatherings,150,150,50 outdoors,50 outdoors
+athletes,other,childcare cenres,childcare centres,secondary schooles,Secondary schools,construction,industry,partial curfew,,technology enhanced,forms,,,traders,other,,,all-travellers,all travellers,TMA,TMA,,,,,100 outdoor,100 outdoors,social,some gatherings ,vaccinated indoors,"vaccinated, indoors",15 funerals,15 funerals
+beaches,outdoor spaces,all wducation,all education,all eduation,All education,etertainment,entertainment,essential business.non essential business,all businesses,Guangdong,gaungdong,,,vaccines,vaccinated,,,non-resident,non-residents,cargo,other,,,,,Religious,some gatherings ,15 indoor,15 indoors ,one household,1 household,100 funerals,100 funerals
+madeira,,TMA test,other,kindegarten,Kindergartens,Professional athlete training indoors,fitness,non-essenital businesses,non-essential businesses,private trasnport,private transport,,,recovered,covid-pass,,,family members,family,cargo drivers,other,,,,,50 outdoors,50 outdoors,>50 outdoor,50 outdoors ,three households,3 households,75,75
+red areas,zones,Seconday schools,secondary schools,years,Years,All businesses,all businesses,non-essential businsesses,non-essential businesses,guangdong,gaungdong,,,unvaccinated,unvaccinated,,,train travellers,other,PCR-tests,pcr-test,,,,,400,400,wedding,,4 households,4 households,<20,20
+respirators,,Screening,screening,news,news,spas,beauty,vaccination,vaccinated,foshan,foshan,,,pcr-tests,pcr-test,,,baltic states,Baltic states,Northern Macedonia,North Macedonia,,,,,100 outdoors,100 outdoors,funerals,,Recreation,,10 outdoor,10 outdoors
+retail,businesses,covid-pass,covid-pass,post secondary schools,post-secondary schools,30,,others,other,all areas,inter-regional travel,,,antigua,Antigua,,,athletes,other,Vaccination,vaccinated,,,,,covid pass,covid-pass,500 outdoor,500 outdoors ,public gatherings,,50 indoor,50 indoors
+ramadan,other,all exhools,all schools,exams,other,beuty,beauty,non-essential,non-essential businesses,priavte transport,private transport,,,western australia,Western Australia,,,medical tourism,other,hhigh-risk groups,high-risk countries,,,,,all mass gatherings,all gatherings ,>15 indoor,15 indoors ,weddings 50,,5 indoors,5 indoors
+private transport,transport,post-sedondary schools,post-secondary schools,seondary schools,secondary schools,offi ces,offices,religious,religion,Shenzhen Bao'an,shenzhen bao'an,,,health,other,,,non-esential travel,non-essential travel,all travellers,all travellers,,,,,large gatherings,all gatherings ,single household,household,PCR-test,pcr-test,50 baptisms,50 baptisms
+>5 education,education,stay at home,,econdary schools,secondary schools,modification,,leisure,fitness,antigen test,screening,,,prisons,other,,,non-eu citizens,multiple countries,Korea,Korea,,,,,>500,500,Religious gatherings,some gatherings,Parties,,pcr-test,pcr-test 
+health care,health,public schools,other,,,Larger boats,,entertainment ,entertainment,other,other,,,single area (NSW),single area,,,rapid antigen test,antigen test,mainland China,China,,,,,entertainment,some events ,9,9,religion,some gatherings,10 indoors,10 indoors
+child care,education,hospitality,,,,vaccine passports,covid-pass,tourism ,tourism,cargo,essential travel,,, multiple areas,multiple areas,,,Very high risk countries: Indina,high-risk countries,serology,covid-pass,,,,,concerts,some events ,20 outdoors,20 outdoors ,30 weddings,,all funerals,funerals
+vaccined,vaccinated,non-essential businesses,,,,bars,hospitality,public sector,offices,inter-regional transport,inter-regional transport,,,antigen test,antigen-test,,,Papa New Guinea,Papua New Guinea,Shenyang and certain areas Lianoning province,"China (Shenyang, Lianoning)",,,,,some events,some events,500 outdoors,500 outdoors ,outdoor gatherings,outdoor ,300,300
+vaccintated,vaccinated,secondary schools (summer schools),secondary schools,,,beaches,recreation,0%,,public transort,public transport,,,>2,age group,,,Brazil.,Brazil,IgM,covid-pass,,,,,<5,5,<2,2,30 outdoors,30 outdoors,>8,8
+religious services,other,secondary schools (lower),secondary schools,,,all businesss,all businesses,non-essential bussinesses,non-essential businesses,private tranpsort,private transport,,,rapid-test,antigen-test,,,>10s,,Zhanjiang,China (Zhanjiang),,,,,pcr-test,pcr-test,15 indoors,15 indoors ,own household only,household,350 weddings,350 weddings
+public transoport,transport,secondary schools (upper),secondary schools,,,public spaces,,all businbesses,all businesses,private trabsport,private transport,,,essential travel,,,,pcr-testing,pcr-test,areas in Shenzhen,China (Shenzhen),,,,,<10,10,25 outdoor,25 indoors,unvaccinated,unvaccinated ,20 baptisms,20 baptisms
+high risk settings,public spaces,other (rural),other,,,News,news,non-essentials,non-essential businesses,business travel,essential travel,,,non essential travel,non-essential travel,,,transnistria,Transnistria,Maoming,China (Maoming),,,,,public gatherings,,30 outdoors,30 outdoors,>5 per week,5,6 indoors,6 indoors
+age group <10,age group,other (special needs),other,,,government offices,offices,touris,tourism,all travelers,other,,,rapid test,screening,,,EEA,EEA,areas in Dongguan area,China (Dongguan),,,,,1000 outdoors,1000 outdoors,10 outdoor,10 outdoors,New Year,public holiday ,15 outdoors,15 outdoors
+>60,,childcare centers,childcare centres,,,health services,health,hospitalty,hospitality,zones quarantine,,,,Shanghai disneyland,"zones, China",,,U.S.,US,zones in Guangdong,China (Guangdong),,,,,>20,20,>50 outdoors,50 outdoors ,2 adults plus dependents from 1 household,household,15 burials,15 burials
+public spaces & public transport,"public spaces, transport",covid pass,covid-pass,,,places of worship,religion,religon,religion,airports,other,,,Beijing,"zones, China",,,South Ossetia,South Ossetia,Ruili,China (Ruili),,,,,Festival,some events ,25 indoors,25 indoors,clandestine parties,some gatherings,>100,100
+indoor and outdoor public spaces,public spaces,news,news,,,entertainemnat,entertainment,recreatioon,recreation,railway stations,public transport,,,sanya city,"zones, China",,,EU member states,EU,2 areas in Guangdong,China (Guangdong),,,,,<50,50,25 outdoors,25 outdoors,30 (Eid Aidifitri),"30, public holiday ",500,500
+airports,transport,antigen test,antigen-test,,,pcr-tests,screening,staff,staff,inter-regiona travel,inter-regional travel,,,sanya,"zones, China",,,Shengen area,Schengen,Dashi subdistrict Panyu district Guangdong,China (Guangdong),,,,,>3,3,>100 outdoors,100 outdoors,all ,all gatherings,100 outdoor,100 outdoors
+no recommendation,no policy,pcr-test,pcr-test,,,staff,,hospitlity,hospitality,60%,,,,sojourn,"zones, China",,,countries that do not require Visa for entering,multiple countries,repatriated,repatriation,,,,,>30,30,>15 indoors,15 indoors ,public holidays,public holiday,10 outdoors,10 outdoors
+secondary schools,education,covid pass,covid-pass,,,retil,retail,news,news,clinically vulnerable,vunerable groups,,,Shanghai,"zones, China",,,schengen border,neighbouring countries,citizines,citizens,,,,,10 indoors,10 indoors ,weddings,,outdoor,outdoors,>4,4
+covid pass,covid-pass,childcare centers,childcare centres,,,malls,retail,fitnes,fitness,cycling,private transport,,,Lonhcguan,"zones, China",,,all non-domestic animals,other,Serbia & Montenegro,"Serbia, Montenegero",,,,,75%,75% capacity ,worship,some gatherings,indoor,indoors,350 baptisms,350 baptisms
+public transportation,transport,primary education,primary schools,,,pharmacies,health,entertainments,entertainment,roads,road closures,,,Yili,"zones, China",,,non-business,non-essential travel,England,England,,,,,2000,2000,>500,500,not limit,no limit,10 baptisms,10 baptisms
+pblic spaces,public spaces,early year education,kindergartens,,,parliament,offices,rbeauty,beauty,felgueiras,felgueiras,,,covid certificate,covid-pass,,,allcountries,all countries,single countrym UK,"single country, UK",,,,,500 outdoor,500 outdoors ,meeting,some gatherings,gatherings,all gatherings,20 outdoors,20 outdoors 
+free masks,other,600,,,,essential workers,,non-covid,non-covid,lousada and paos de ferreira,"lousada, paos de ferreira",,,all high risk incidence areas,multiple areas,,,south america,South America,recovered cases,covid-pass,,,,,fairs,some events ,cultural,some events,screening,screening,20 indoors,20 indoors
+public trasport,transport,primary shcools,primary schools,,,clinically vulnerable,,no policy,no policy,publictransport,public transport,,,news,news,,,some visas,,all-travellers,all travellers,,,,,religious gathering,some gatherings ,5000,5000,some gatherings,some gatherings,50 indoors,50 indoors
+exemptions,,grade 12,primary schools,,,>65,,enterainment,entertainment,temperature checks,screening,,,l zones,Zones,,,non essential travel,non-essential travel,single country Denmark,"single country, Denmark",,,,,religious gatherings,some gatherings ,250 indoor,250 indoors ,no-limit,no limit,outside,outdoors 
+childcare,education,vaccinations,vaccinated,,,Essential business,essential businesses,,,public tranport,public transport,,,news,news,,,gurnsey,Guernsey,multiple countires,multiple countries,,,,,outdoor events,,12,12,rapid test,Antigen test,>0,all
+pubilc spaces,public spaces,childcare centers,childcare centres,,,tourisn,tourism,,,all businesses,,,,students,students,,,rna-test,pcr-test,US,US,,,,,500 outdoors,500 outdoors ,All public gatherings,some gatherings ,news,news,30 outdoors,30 outdoors
+public transport,transport,not applicable,other,,,beatuy,beauty,,,essential workers,essential travel,,,yichun,"single area, yichun",,,all countries except portugal,multiple countries,all countires,all countries,,,,,100 indoors,100 indoors ,>20 outdoors,20 outdoors ,some gathergins,some gatherings,150 weddings,150 weddings
+events,,day care centers,childcare centres,,,hospitality,hospitality,,,youth,age group,,,symptomatic,symptomatic,,,kenya and south africa,"Kenya, South Africa",non-essential travellers,other,,,,,30%,30% capacity ,0.5,50% capacity ,other,other,Religious,religion
+offices,businesses,COVID pass,covid-pass,,,firness,fitness,,,non essential travel,non-essential travel,,,,,,,Europe,EU,pcr-testting,pcr-test,,,,,>15,15,large gatherings,,,,parties,
+venues,,pre-school,kindergarten,,,public venues,venues,,,trains,public transport,,,,,,,buisness,business,border workers,other,,,,,500 indoor,500 indoors ,meetings,some gatherings,,,religious gatherings,religion
+vunerable groups,vulnerable,testing,screening,,,essential services,essential businesses,,,private vehicles,private transport,,,,,,,Guadaloupe,Guadaloupe,and spain,spain,,,,,>100 outdoors,100 outdoors ,>200,200,,,200 weddings,200 weddings
+indoors public spaces,indoor spaces,all educatiom,all education,,,all education,,,,public transport & private transport,"public transport, private transport",,,,,,,non-nationals,non-citizens,the United kingdom,UK,,,,,large events,all events ,250 indoors,250 indoors,,,3 households,3 households
+outdoor public spaces,outdoor spaces,covid pass,covid-pass,,,essintial,essential businesses,,,inte-regional transport,inter-regional travel,,,,,,,Hong Kong,Hong Kong,diplomats,other,,,,,all getherings,all gatherings ,counties,,,,19,19
+eveywhere,everywhere,some schools,"all schools, zones",,,multiple countries,,,,asymptomatic,other,,,,,,,crew,other,funerals,other,,,,,10000,10000,outdoor 10,10 outdoors,,,funerals 20,funerals 20 
+businsess,businesses,booster,vaccinated,,,vaccinatesd,vaccinated,,,<18,,,,,,,,businesses,business,low risk travellers,low-risk countries,,,,,2500,2500,>30 outdoors,30 outdoors,,,15 weddings,15 weddings
+area,,some post-secondary schools,"post-secondary schools, zones",,,covid test,screening,,,inter-regional tranvel,inter-regional travel,,,,,,,>15,,besides Austria,multiple countries,,,,,500 indoors,500 indoors ,15 outdoors,15 outdoors,,,50% capacity,50% capacity 
+>4,age group,some schools,"all schools, zones",,,hopsitality,hospitality,,,domestic flight,domestic flights,,,,,,,All countires,all countries,smultiple countries,multiple countries,,,,,tests,pcr-test,>6,6,,,all events,all
+asymptomatic,,education,all education,,,secondary schools,,,,inter-rgional travel,inter-regional travel,,,,,,,Covid pass,covid-pass,>11,,,,,,>1000,1000,household only,household,,,weddings >10,weddings 10
+publicc transport,public transport,employees COVID pass,"staff, covid-pass",,,Hosptality,hospitality,,,Forms,forms,,,,,,,US,US,antartica,antartica,,,,,75% capacity,75% capacity ,100 indoor,100 indoors,,,<100,100
+indoors,indoor spaces,all eduction,All education,,,enterainment,entertainment,,,anyone,,,,,,,,vacinated,vaccinated,pacific islands),pacific islands,,,,,Sport events,some events ,20 indoors,20 indoors,,,75 weddings,75 weddings
+outdoors,outdoor spaces,years,years,,,hospiality,hospitality,,,inter-regional travellers,inter-regional travel,,,,,,,cruise ships,other,Victoria,Australia (Victoria),,,,,<100,100,>25 outdoors,25 outdoors,,,civil ceremonies,weddings
+>18,age group,levels,years,,,entertaintment,entertainment,,,inter-reginal travel,inter-regional travel,,,,,,,covid passport,covid-pass,svalbard,Norway (svalbard),,,,,venues,,10 outdoors,10 outdoors,,,100 outdoors,100 outdoors 
+some outdoor spaces,outdoor spaces,all schools_zones,"All schools, zones",,,reacreation,recreation,,,30% capacity,,,,,,,,rapid test,antigen test,Test,pcr-test,,,,,25 outdoors,25 outdoors ,250 outdoors,250 outdoors ,,,private gatherings,all
+"entertainment, hospitality",busenisses,kindegarten,Kindergartens,,,>12,,,,75% capacity,,,,,,,,healthcare workers,other,South America,South America,,,,,3000,3000,recreation,,,,funerals 10,10 funerals 
+some indoor spaces,indoor spaces,all education_zones,"All education, zones",,,kindergarten,,,,Traditional,,,,,,,,auto renewal,,territory,,,,,,social,,35,35,,,weddings 5,5 weddings
+outdoor spces,outdoor spaces,post-secondary schools.,post-secondary schools,,,covid-pass,covid-pass,,,except political district of Lienz,zones,,,,,,,alltravellers,all travellers,self-isolation high-risk countries,"quarantine, high-risk countries",,,,,250 outdoors,250 outdoors,three households,3 households,,,Places of worship,religion
+public places,public spaces,news,news,,,graduation,,,,trucks,essential travel,,,,,,,china (wuhan),China (Wuhan),high -risk countries,high-risk countries,,,,,60,60,75% capacity,75% capacity ,,,15 indoor,15 indoors
+healthcare,health,child-care facilities,childcare centres,,,unvaccinated,unvaccinated,,,all vehicles,"public transport, private transport",,,,,,,business travel (cross-border commuters),business,low-risk country,low-risk countries,,,,,parade,some events ,1000 outdoor,1000 outdoors,,,core bubble,household
+everwhere,everywhere,post-secondary schoosl,post-secondary schools,,,nonessential business,non-essential businesses,,,interdistrict,inter-regional travel,,,,,,,business travel (seasonal workers),business,designated location,"quarantine,",,,,,0.5,50% capacity ,all sports,some gatherings,,,>150,150
+age groups >6,age group,no policy,no policy,,,inter-regional travel,,,,under 18,age group,,,,,,,residents (border communities),residents,romanian maritime staff,quarantine,,,,,political,some events ,>25 indoors,25 indoors ,,,>3 at funerals,3 funerals
+outdoors spaces,outdoor spaces,new,news,,,all schools,,,,essential staff,essential travel,,,,,,,China (Hubei),China (Hubei),romanian lorry drivers,other,,,,,30% capacity,30% capacity ,>50 indoor,50 indoors ,,,120,120
+travel,transport,kingergartens,kindergarten,,,Traditional,,,,Shanghai,shanghai,,,,,,,brazil,Brazil,centres,,,,,,indoor gatherings,,outdoor 100,100 outdoors,,,private events,all
+some businesses,busenisses,post secondary education,post-secondary schools,,,gatherings,,,,Taiyuan,taiyuan,,,,,,,single country ,single country,vaccination certificates,vaccinated,,,,,Religious gatherings,some gatherings ,religious services,some gatherings,,,two households,2 households
+some towns,zones,,,,,non-essentil businesses,non-essential businesses,,,Jinzhong,jinzhong,,,,,,,pcr-test,pcr-test,non-citizen students,other,,,,,0 sport,some events ,150 outdoors,150 outdoors,,,6 weddings,6 weddings
+correctional facilities,healht,,,,,50% capacity,,,,drill,,,,,,,,Germany (Schleswg-Holstein),Germany,mutliple countries,multiple countries,,,,,>10 indoors,10 indoors ,100 indoors,100 indoors,,,weddings 50,50 weddings
+essential businesses,Businesses,,,,,corona pass,covid-pass,,,medium-risk areas,zones,,,,,,,antarctica,Antarctica,EU countries & Schengen,Schengen,,,,,1500,1500,<25,25,,,Gatherings,all
+venue,Venues,,,,,non-essenital businesses,non-essential businesses,,,high-risk areas,zones,,,,,,,some travellers,,Itlay,Italy,,,,,200 indoors,200 indoors ,Religious services,some gatherings,,,Funerals and tangihana,funerals
+evrywhere,Everywhere,,,,,gyms,fitness,,,tourism,other,,,,,,,pcr-test all travellers,"pcr-test, all travellers",tourism,other,,,,,>50 indoors,50 indoors ,1000 outdoors,1000 outdoors,,,funerals <10,10 funerals
+oudoor spaces,Outdoor spaces,,,,,religion tourism,"religion, tourism",,,covid-pass,covid-pass,,,,,,,non-citizen,non-citizens,pcr-test positive,pcr-test,,,,,fitness,some events ,covid pass,covid-pass,,,pcr-tests,pcr-test 
+vunerable,Vulnerable groups,,,,,non-essential,non-essential businesses,,,age >5,age group,,,,,,,high-risk country,high-risk countries,symtopmatic,symptomatic,,,,,>200,200,0.2,20% capacity,,,PCR-test,pcr-test 
+some education,education,,,,,hospitality ,hospitality,,,publc transport,public transport,,,,,,,mutipel countries,multiple countries,South Jorea,South Korea,,,,,entertainment events,some events ,all public gatherings,some gatherings ,,,religious and civil ceremonies,"religion, weddings"
+news,news,,,,,leisure,fitness,,,public-transport,public transport,,,,,,,antigen-test-some travellers,"antigen-test, some travellers",Quarantiine,quarantine,,,,,funerals,,<100,100,,,funeral ceremonies,funerals
+vulnerable,vunerable groups,,,,,religious,religion,,,transit,other,,,,,,,rapid-test,antigen-test,all unvaccinated travellers,unvaccinated,,,,,parks,,<20,20,,,>30 outdoors,30 outdoors
+everyhwere,everywhere,,,,,retail ,retail,,,taxis,public transport,,,,,,,news: transit,transit,all schools,,,,,,8,8,test,pcr-test ,,,>15 from 5 households outdoors,15 outdoors 
+infected,symptomatic,,,,,non-essenetial businesses,non-essential businesses,,,madeira,madeira,,,,,,,all_countries,all countries,all borders,,,,,,25 indoors,25 indoors ,non-essential gatherings,all gatherings ,,,5 people,5
+some essential businesses,everywhere,,,,,non-essentials,non-essential businesses,,,portosanto,portosanto,,,,,,,vaccinate,vaccinated,rapid testing,antigen test,,,,,outdoor gatherings,,single household only,1 household ,,,>10 funeral,10 funerals
+everywher,everywhere,,,,,close 2200.,,,,public trabsport,public transport,,,,,,,unvacinated,unvaccinated,rapid antigen tests,antigen test,,,,,carnival,some events ,>150,150,,,Sports,sports
+neas,news,,,,,non-essential busiensses,non-essential businesses,,,un-vaccinated,unvaccinated,,,,,,,non-covid,non-covid,land travellers,other,,,,,100%,100% capacity ,Gatherings,all gatherings,,,all weddings,weddings
+health centers,health,,,,,hostitality,hospitality,,,religion,,,,,,,,European Union,multiple countries,Anyone,all travellers,,,,,9,9,60,60,,,hospitality,
+new,news,,,,,all business,all businesses,,,non--essential travel,non-essential travel,,,,,,,pacific islands,multiple countries,form,forms,,,,,wedding,,350,350,,,70,70
+publics spaces,public spaces,,,,,hospitslity,hospitality,,,non-esssential travel,non-essential travel,,,,,,,all travallers,all travellers,america samoa,America samoa,,,,,750,750,All events,all events ,,,military,
+outdoor s spaces,outdoor spaces,,,,,covid- pass,covid-pass,,,private travel,private transport,,,,,,,mutlple countries,multiple countries,offices,,,,,,parades,some events ,sports events,some gatherings,,,25 outdoors,35 outdoors 
+hospitals,health,,,,,all busenisses,all businesses,,,non residents,non-residents,,,,,,,all traveller,all travellers,hospitality,,,,,,All mass gatherings,all gatherings ,>50 indoors,50 indoors ,,,60,60
+vacinated,vaccinated,,,,,antigen test,screening,,,Covid pass,covid-pass,,,,,,,Ucrania,"single country, Ukraine",religion,,,,,,Events,all events ,bubble,household,,,outdoor sports,sports
+transort,transport,,,,,capacity cap,,,,vaccines,vaccinated,,,,,,,multeiple countries,multiple countries,Honk Kong,Hong Kong,,,,,200 outdoors,200 outdoors ,Public gatherings,some gatherings ,,,Religion,religion
+,,,,,,employees,staff,,,non-essential trabel,non-essential travel,,,,,,,European Economic area countries and Great Britain,"EU, UK",Veitnam,Vietnam,,,,,1.5,,social gatherings,some gatherings ,,,news,news
+,,,,,,Nightclubs,entertainment,,,inter-regional transport,inter-regional travel,,,,,,,pcr,Par-test,illegal travellers,other,,,,,250 indoors,250 indoors ,indoor gatherings,,,,cremation,
+,,,,,,some business,some businesses,,, zones,zones,,,,,,,covid pass unvaccinated,"Covid-pass, unvaccinated",armenua,Armenia,,,,,Cultural,some events ,75 indoors,75 indoors,,,outdoor 50,50 outdoors
+,,,,,,non-essential bussinesses,non-essential businesses,,,vunerable groups,vulnerable groups,,,,,,,mutlpel countries,Multiple countries,crew,other,,,,,>6,6,venues,,,,>20 funerals,20 funerals
+,,,,,,recretion,recreation,,,lousada,zones,,,,,,,unvaccinted,Unvaccinated,all travelles,all travellers,,,,,>25 outdoors,25 outdoors ,Large gatherings,,,,wedding 50,50 weddings
+,,,,,,cinemas,entertainment,,,inter-regionl travel,inter-regional travel,,,,,,,news,news,pcr=test,pcr-test,,,,,carnivals,some events ,Religion,some gatherings,,,250 weddings,250 weddings
+,,,,,,emtertainment,entertainment,,,gaungdong,"zones, Guagdong",,,,,,,mulitple countries,multiple countries,pcr-test. All travellers,"pcr-test, all travellers",,,,,>300,300,news,news,,,150 funerals,150 funerals
+,,,,,,"Cinemas, museums, shops, theaters","entertainment, retail",,,Hearbin,"Herbing, zones",,,,,,,unvaccinate,unvaccinated,Covid pass,covid-pass,,,,,15 indoors,15 indoors ,hospitality,,,,>75,75
+,,,,,,"working hours, non essential",non-essential businesses,,,Yilin,,,,,,,,anitgen test,antigen-test,COVID pass,covid-pass,,,,,Festivals,some events ,50 people,50,,,0.5,50% capacity 
+,,,,,,COVID pass. Retail,"covid-pass, retail",,,travellers,,,,,,,,no policy,no policy,citizens self-isolation,"citizens, quarantine",,,,,all sports,some events ,>4,4,,,>100 weddings,100 weddings
+,,,,,,social distancing,,,,vaccinate,vaccinated,,,,,,,all counties,all countries,quarantining,quarantine,,,,,150 outdoors,150 outdoors ,outdoors only,,,,Religious gatherings,religion
+,,,,,,sport,fitness,,,05-Nov,,,,,,,,all travelles,all travellers,all-travelers,all travellers,,,,,capacity cap,,25% capacity,25% capacity,,,funerals 50,50 funerals
+,,,,,,non-essential.,non-essential businesses,,,vaccination,vaccinated,,,,,,,vaccinates,vaccinated,high-rik countries,high-risk countries,,,,,New Year,,mosques,some gatherings,,,weddings 10,10 weddings 
+,,,,,,vaccination,vaccinated,,,student,students,,,,,,,unvaccintated,unvaccinated,anitgen-test,antigen test,,,,,sporting event,some events ,Public events,some events ,,,public places,
+,,,,,,covid certificate,covid-pass,,,dmestic air travel,domestic flights,,,,,,,neighbouring vountries,neighbouring countries,caricom,caricom,,,,,performances,some events ,400,400,,,wake 10,10 funerals
+,,,,,,entretainment,entertainment,,,pubic transport,public transport,,,,,,,,,qaurantine,quarantine,,,,,pcr-tests,pcr-test ,70,70,,,graveside 30,30 funerals
+,,,,,,hospitality.,hospitality,,,>16,age group,,,,,,,,,pcr-test-quarantine,"pcr-test, quarantine",,,,,600,600,indoor 5,5 indoors ,,,co-habitants,household
+,,,,,,somee businesses,some businesses,,,paos de ferreira,zones,,,,,,,,,nationals,citizens,,,,,Public events,some events ,fitness,,,,Weddings 10,10 weddings
+,,,,,,hospitlaity,Hospitality,,,teachers,,,,,,,,,,tourist,non-citizens,,,,,rally,some events ,theatre,,,,hotels,
+,,,,,,religon,Religion,,,businesses,,,,,,,,,,franc,France,,,,,prayers,some gatherings ,outdoor 5,5 outdoors ,,,funerals >25,25 funerals
+,,,,,,all busnesses,All businesses,,,transporters,,,,,,,,,,"Guangzhou (Longjin St, Jinlong community)",China (Guangzhou),,,,,>50 outdoors,50 outdoors ,>10 outdoor,10 outdoors,,,social bubble,household
+,,,,,,hospitalit,Hospitality,,,vunerable,vulnerable,,,,,,,,,business travellers (seasonal workers),business,,,,,>15 indoors,15 indoors ,Sports,some gatherings,,,>5 wedding,5 weddings
+,,,,,,non-covid,non-covid,,,>12,"age group, 12",,,,,,,,,China (wuhan),China (Wuhan),,,,,125,125,indoor sports,some gatherings,,,>50 funerals,50 funerals
+,,,,,,fitness. tourism,"Fitness, tourism",,,inter-regional  transport,inter-regional transport,,,,,,,,, all travelers,all travellers,,,,,Gatherings,all gatherings ,sports training,some gatherings,,,50 outdoor funerals,50 funerals
+,,,,,,entertainmnt,entertainment,,,>18,"age group, 18",,,,,,,,, all travellers,all travellers,,,,,300 outdoors,300 outdoors,2 households,2 households,,,funerals >100,100 funerals
+,,,,,,essensital businesses,Essential businesses,,,>15,"age group, 15",,,,,,,,, quarantine,quarantine,,,,,350,150,100% capacity,100% capacity ,,,> 20,20
+,,,,,,essential-businesses,Essential businesses,,,inter-regional travel_zones,"inter-regional transport, zones",,,,,,,,, Guangdong,China (Guandong),,,,,>150,150,catered events,some gatherings,,,retail,
+,,,,,,xones,Zones,,,<14,"age group, 14",,,,,,,,,screening ,screening,,,,,Indoors: 50,50 indoors ,and gatherings,some gatherings,,,300 weddings,
+,,,,,,news,news,,,domestic air travel,domestic flights,,,,,,,,,screening ,screening,,,,,demonstrations,some events ,prayers,some gatherings,,,>50 weddings,50 weddings 
+,,,,,,all bussinesses,all businesses,,,public transpot,public transport,,,,,,,,,Guangzhou (Longjin St,China (Guangdong),,,,,hospitality,,80,80,,,>10 weddings,10 weddings
+,,,,,,no policy,no policy,,,cordon sanitair,Cordon sanitaire,,,,,,,,,Jinlong community),China (Guangdong),,,,,outdoors 500,500 outdoors ,religious event,some gatherings,,,exercise,sports
+,,,,,,non-essentail businesses,non-essential businesses,,,non-essential movement,non-essential travel,,,,,,,,,China (Macao),Macao,,,,,sport events,some events ,Selected gatherings,some gatherings,,,>15 indoor,15 indoors 
+,,,,,,some venues,venues,,,non-covid,non-covid,,,,,,,,,China (Maoming),China,,,,,religious services,some gatherings ,30% capacity,30% capacity ,,,75 baptisms,75 baptisms
+,,,,,,new,news,,,road closres,Road closures,,,,,,,,,Montenegero,Montenegro,,,,,0.25,25% capacity ,indoor 25,25 indoors,,,christenings,baptisms
+,,,,,,non-essential businees,non-essential businesses,,,inter-regioanl transport,Inter-regional transport,,,,,,,,,"China (Shenyang, Lianoning)",China,,,,,news,news,>150 outdoors,150 outdoors,,,<4,4
+,,,,,,restaurants,hospitality,,,inter regional travel,Inter-regional travel,,,,,,,,,Guangzhou (Longjin St,China,,,,,percentage of max occupancy,,>10 outdoors,10 outdoors,,,family members,household
+,,,,,,recreation#,recreation,,,inter-regional tranport,Inter-regional transport,,,,,,,,,Australia (Victoria),Australia,,,,,catered events,,indoor 20,20 indoors,,,>15 weddings,15 weddings 
+,,,,,,restial,retail,,,inter-regional ttansport,Inter-regional transport,,,,,,,,,China (Shenzhen),"China, single country",,,,,events 50% capacity,50% capacity ,200 outdoors,200 outdoors ,,,>30 funerals,30 funerals
+,,,,,,eseential businesses,essential businesses,,,cordon sanitiare,Cordon sanitaire,,,,,,,,,china (Guangzhou),"China, single country",,,,,70,70,2000,2000,,,25 indoors,25 indoors 
+,,,,,,retail https,retail,,,private trnsport,Private transport,,,,,,,,,china (Gaungzhou),"China, single country",,,,,weddings,,all getherings,all gatherings ,,,>250,250
+,,,,,,some bussineses,some businesses,,,inter-regional-tavel,Inter-regional travel,,,,,,,,,china (Gaungzhou),"China, single country",,,,,football,some events ,entertainment,,,,social gatherings,all
+,,,,,,museums,entertainment,,,news,news,,,,,,,,,High-risk countires,high-risk countries,,,,,unlimited,no limit,Weddings,,,,100 weddings and funerals,"100 weddings, 100 funerals "
+,,,,,,theaters,entertainment,,,publi transport,public transport,,,,,,,,,China (Zhanjiang),"China, single country",,,,,5000 outdoors,5000 outdoors ,Places of worship,some gatherings,,,60 weddings funerals,"60 weddings, 60 funerals"
+,,,,,,shops,retail,,,no policy,no policy,,,,,,,,,China (Guangdong),"China, single country",,,,,Religious services,some gatherings ,>25%,25% capacity,,,funerals 25,25 funerals
+,,,,,,,,,,puiblic transport,public transport,,,,,,,,,China (Wenzhou),"China, single country",,,,,150 indoors,150 indoors ,30 indoors,30 indoors ,,,40 funerals,40 funerals
+,,,,,,,,,,,,,,,,,,,,China (Shenzhen),"China, single country",,,,,indoor 50,50 indoors ,beaches,,,,Burials,burials
+,,,,,,,,,,,,,,,,,,,,Jinlong community),"China, single country",,,,,outdoor 100,100 outdoors ,>8,8,,,sports events,sports
+,,,,,,,,,,,,,,,,,,,,China (Dongguan),"China, single country",,,,,large scale events,all events ,catered events: >50 inddors,"50 indoors, some events ",,,Individual outdoor sports,sports
+,,,,,,,,,,,,,,,,,,,,China (Wenzhou),"China, single country",,,,,75 indoors,75 indoors ,multiple households,multiple households ,,,bubbles,bubble
+,,,,,,,,,,,,,,,,,,,,China (Ruili),"China, single country",,,,,exhibitions,some events ,50 people Greater Abidjan,,,,guidelines,
+,,,,,,,,,,,,,,,,,,,,some countries,multiple countries,,,,,sports 500,"500, some events ",Mass gatherings,,,,indoor 20,20 indoors
+,,,,,,,,,,,,,,,,,,,,Dec-18,,,,,,1000 indoors,1000 indoors ,public events,some gatherings,,,indoor 10,10 indoors
+,,,,,,,,,,,,,,,,,,,,China (Foshan),"China, single country",,,,,all indoors,,age group,,,,outdoor 25,35 outdoors 
+,,,,,,,,,,,,,,,,,,,,quarntine,quarantine,,,,,>10 outdoors,10 outdoors ,>9,9,,,Weddings limit 50,50 weddings
+,,,,,,,,,,,,,,,,,,,,all travellers >2,"age group, 2",,,,,alll events,all events ,<3,3,,,shareholder meetings limit 20,
+,,,,,,,,,,,,,,,,,,,,uarantine,quarantine,,,,,20 outdoors,20 outdoors ,>1000,1000,,,tour 30,
+,,,,,,,,,,,,,,,,,,,,Kazkhstan,"Kazakhstan, single country",,,,,limits,,no limit,no limit,,,board mtg 50,
+,,,,,,,,,,,,,,,,,,,,positive travellers,symptomatic,,,,,no limit,no limit,<500,500,,,Quarantine funeral exception,
+,,,,,,,,,,,,,,,,,,,,isolation,quarantine,,,,,recreation,,cultural events,some events ,,,50 funerals and weddings,"50 funerals, 50 weddings"
+,,,,,,,,,,,,,,,,,,,,Covid test high risk countries,"pcr-test, high-risk countries",,,,,some gatherings,some gatherings,All gatherings except religious services,all gatherings ,,,20 family members other events,20
+,,,,,,,,,,,,,,,,,,,,high-risk  countries,high-risk countries,,,,,20% capacity,20% capacity,150 indoors,150 indoors ,,,christenings and funerals,"baptism, funerals"
+,,,,,,,,,,,,,,,,,,,,"Covid passport, isolation","covid-pass, quarantine",,,,,indoors 50,50 indoors ,outdoor 25,25 outdoors,,,>350 ceremony receptions,350 weddings
+,,,,,,,,,,,,,,,,,,,,no countries,,,,,,youth sports,some events ,outdoor 50,50 outdoors,,,150 baptisms,150 baptisms
+,,,,,,,,,,,,,,,,,,,,multiple counries,multiple countries,,,,,contact sports,some events ,choir,some gatherings,,,2500,2500
+,,,,,,,,,,,,,,,,,,,,multiple travellers,some travellers,,,,,indoors >25,25 indoors ,<30,30,,,Funerals 50,50 funerals
+,,,,,,,,,,,,,,,,,,,,some travellers,some travellers,,,,,outdoors >100,100 outdoors ,50% occupancy,50% capacity ,,,christmas parties,
+,,,,,,,,,,,,,,,,,,,,unvacinated,unvaccinated,,,,,>25% capacity,25% capacity ,age groups,,,,30 weedings,30 weddings
+,,,,,,,,,,,,,,,,,,,,all traveller,all travellers,,,,,<250,250,retail,,,,political rallies,
+,,,,,,,,,,,,,,,,,,,,som travellers,some travellers,,,,,>25 indoors,25 indoors ,public transport,,,,>10 wedding and funerals,"10 weddings, 10 funerals"
+,,,,,,,,,,,,,,,,,,,,quaarantine,quarantine,,,,,catered events: >50 inddors,,50 religion,"50, some gatherings ",,,100 baptisms,100 baptisms
+,,,,,,,,,,,,,,,,,,,,"China (Shenyang, Lianoning)","single country, China, zones",,,,,religious event,some events ,600,600,,,large gatherings,
+,,,,,,,,,,,,,,,,,,,,xome travellers,some travellers,,,,,political gatherings,some gatherings ,0.25,25% capacity,,,weddings 400,400 weddings
+,,,,,,,,,,,,,,,,,,,,"some travellers, non-covid","some travellers, non-covid",,,,,50% outdoor,50% capacity outdoors ,Religious events,some gatherings,,,30 baptisms,30 baptisms
+,,,,,,,,,,,,,,,,,,,,random testing,screening,,,,,all  gatherings,all gatherings ,>30 organised events,"30, some gatherings ",,,Safar month mourning ceremonies,
+,,,,,,,,,,,,,,,,,,,,non-covid,non-covid,,,,,All gatherings except religious services,all gatherings ,6 indoors,6 indoors,,,15 outside,15 outdoors 
+,,,,,,,,,,,,,,,,,,,,Covid-passs,covid-pass,,,,,50% occupancy,50% capcity ,lifted,,,,1 household,1 household 
+,,,,,,,,,,,,,,,,,,,,resident,residents,,,,,outdoors: 75,75 outdoors ,vaccine,vaccinated ,,,2 households outdoors,2 households outdoors
+,,,,,,,,,,,,,,,,,,,,>12,age group,,,,,>30 outdoors,30 outdoors ,>0,all gatherings ,,,3 households outdoors,3 households outdoors
+,,,,,,,,,,,,,,,,,,,,Ukranians,"single country, Ukraine",,,,,business,,>75 indoors,75 indoors,,,10 burials,10 burials
+,,,,,,,,,,,,,,,,,,,,pcr-residents,"pcr-test, residents",,,,,Vaccinated,vaccinated ,unless social distancing,all,,,all burials,burials
+,,,,,,,,,,,,,,,,,,,,Ucrania,"single country, Ukraine",,,,,recovered,covid-pass,8/1000 sq ft,,,,age group,
+,,,,,,,,,,,,,,,,,,,,mutlple countries,multiple countries,,,,,Covid pass,covid-pass,limit 25 indoor,25 indoors ,,,Social and Cultural Events,
+,,,,,,,,,,,,,,,,,,,,pcr tests,pcr-test,,,,,2000 outdoors,2000 outdoors ,indoors >10,10 indoors ,,,Funerals <10,10 funerals
+,,,,,,,,,,,,,,,,,,,,screening all travellers,"screening, all travellers",,,,,outdoors 250,250 outdoors ,outdoors >25,25 outdoors ,,,Religious 20% capacity,religion 20% capacity 
+,,,,,,,,,,,,,,,,,,,,some travellers.,some travellers,,,,,mass events,all events ,bars,,,,weddings 25% capacity,weddings 25% capacity 
+,,,,,,,,,,,,,,,,,,,,antigren-test,Antigen test,,,,,All Mass Gatherings. No threshold,all gatherings ,two households,2 households,,,Funeral 25% capacity,25% capacity funerals 
+,,,,,,,,,,,,,,,,,,,,random screening,Screening,,,,,Weddings,,3 households,3 households,,,50 weddings & funerals,"50 weddings, 50 funerals"
+,,,,,,,,,,,,,,,,,,,,unvaccinate,Unvaccinated,,,,,15 outdoors,15 outdoors ,>50 without social distancing,50,,,family/social 50/100,"50 indoors, 100 outdoors"
+,,,,,,,,,,,,,,,,,,,,all travelllers,All travellers,,,,,political rallies,some events ,>100 with social distancing,100,,,weddings 100/200,"weddings 100 indoors, weddings 200 outdoors "
+,,,,,,,,,,,,,,,,,,,,alll travellers,All travellers,,,,,50% outdoors,50% capacity outdoors ,25 people,25,,,1 shopping,
+,,,,,,,,,,,,,,,,,,,,news,news,,,,,indoors 300,300 indoors ,outdoor 100%,100% capacity outdoors ,,,all sports,sports
+,,,,,,,,,,,,,,,,,,,,vaccinted,vaccinated,,,,,>5000,5000,Thanksgiving,public holiday ,,,recreation,
+,,,,,,,,,,,,,,,,,,,,RT-PCR test,"antigen test, pcr-test",,,,,all gatheings,all gatherings ,>1000 outdoors,1000 outdoors,,,funerals >250,250 funerals
+,,,,,,,,,,,,,,,,,,,,no policy,no policy,,,,,Halloween,,red zones,zones,,,funerals max 250,250 funerals
+,,,,,,,,,,,,,,,,,,,,pct-test,pcr-test,,,,,5000 indoors,5000 indoors ,<4,4,,,>10 people,10
+,,,,,,,,,,,,,,,,,,,,mutliple country,multiple countries,,,,,live venues,some events ,religious 50,"50, some gatherings",,,Recreation,
+,,,,,,,,,,,,,,,,,,,,al countries,all countries,,,,,non-essential gatherings,all gatherings ,All gatherings (except religious),all gatherings ,,,some events,
+,,,,,,,,,,,,,,,,,,,,vaccianted,vaccinated,,,,,000 people,1000,120,120,,,>8 outdoor weddings,8 weddings 
+,,,,,,,,,,,,,,,,,,,,all tarvellers,all travellers,,,,,<50 Meetings,50,all indoor gatherings,,,,>40 indoor weddings,40 weddings
+,,,,,,,,,,,,,,,,,,,,uinvaccinated,unvaccinated,,,,,amusement parks,,indoor events,,,,>50 weddings and celebrations,50 weddings
+,,,,,,,,,,,,,,,,,,,,mutlitple countries,multiple countries,,,,,arcades,,> 10,10,,,70 outdoors,70 outdoors 
+,,,,,,,,,,,,,,,,,,,,new,news,,,,,bowling alleys,,outdoors >15,15 outdoors,,,Funeral >30,30 funerals
+,,,,,,,,,,,,,,,,,,,,pcrt-test,pcr-test,,,,,zoos,,75 outdoors,75 outdoors,,,Marriage >15,15 weddings 
+,,,,,,,,,,,,,,,,,,,,quarantine unvaccinated,"quarantine, unvaccinated",,,,,theaters etc,,limited to capacity,no limit,,,wedding 15 or 30,15 weddings
+,,,,,,,,,,,,,,,,,,,,quarantine vaccinated,"quarantine, vaccinated",,,,,theme parks,,outdoor events,,,,funerals 30,30 funerals
+,,,,,,,,,,,,,,,,,,,,positive,symptomatic travellers,,,,,concert and music halls,some events ,300 outdoors,300 outdoors ,,,10 wake,10 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,>50%,50% capacity ,pcr-test,pcr-test ,,,30 funeral/wedding,"30 funerals, 30 weddings"
+,,,,,,,,,,,,,,,,,,,,,,,,,,social distancing,,sport events,some gatherings,,,wedding 30 or 30% venue,30 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,75% capacity indoors; 100% outdoors,"75% capacity indoors,  100% capacity outdoor gatherings ",states,zones,,,wedding 50 home or 30% venue,50 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,stadiums,some events ,50% outdoors,50% capacity outdoors,,,religious ceremonies,religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-contact sports,some events ,outdoor 200,200 outdoors ,,,14,14
+,,,,,,,,,,,,,,,,,,,,,,,,,, indoor gatherings,,event spaces,,,,Outdoor sports grounds,sports 
+,,,,,,,,,,,,,,,,,,,,,,,,,,40%,40% capacity ,>5 indoor,5 indoors ,,,Children's playgrounds,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 100,100 outdoors ,10 religious,"10, some gatherings ",,,funeral ceremonies ,funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,social gatherings,some gatherings,festivals,some gatherings,,,<15,15
+,,,,,,,,,,,,,,,,,,,,,,,,,,"indoor gatherings: <200
+outdoor gatherings: unlimited","200 indoors, no limit, outdoors ",10 sports,"10, some gatherings ",,,>50 outdoors,50 outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Mosques,some gatherings ,10% capacity,10% capacity,,,>25 indoors,25 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,all public gatherings,some gatherings ,large events,,,,wedding >50,50 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,<50 inside,50 indoors ,1000 indoor,1000 indoors ,,,funeral >25,25 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,<100 outside,100 outdoors ,some gatherings,some gatherings,,,75 funerals,75 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious festivals,some events ,200 indoors,200 indoors ,,,25 public spaces,25
+,,,,,,,,,,,,,,,,,,,,,,,,,,pilgrimage,,music,some gatherings,,,< 5 people,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,100% capacity,100% capacity ,Friday prayers,some gatherings,,,Weddings and funerals <10,"10 weddings, 10 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,public shows,,15 sports training,15 sports,,,Parks,
+,,,,,,,,,,,,,,,,,,,,,,,,,,age group,,>20 indoors,20 indoors,,,Weddings 200/hall,200 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,music event,some events ,10000,10000,,,30/home,30
+,,,,,,,,,,,,,,,,,,,,,,,,,,meetings,,100 religion,"100, some gatherings",,,tent,
+,,,,,,,,,,,,,,,,,,,,,,,,,,2500 outdoor,2500 outdoors ,Outdoor groups,,,,Immediate family only at funerals,household
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-covid,non-covid,>100 indoors,100 indoors,,,at home,household
+,,,,,,,,,,,,,,,,,,,,,,,,,,Football league,some events ,all indoor events,,,,funerals >30,30 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,800,800,religion 50%,"50% capcaity, some gatherings",,,>6 indoors,6 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,400 outdoors,400 outdoors ,masks,,,,indoors >6,6 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,2000 indoors,2000 indoors ,indoors 10,10 indoors,,,outdoors >15,15 outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,2500 outdoors,2500 outdoors ,indoors 5,5 indoors ,,,weddings >25,25 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,4000 indoors,4000 indoors ,500 indoors,500 indoors ,,,Christmas Bubble,household
+,,,,,,,,,,,,,,,,,,,,,,,,,,all gathergins,all gatherings ,<20. <50,"20, 50 ",,,three households,3 households outdoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,all gatehrings,all gatherings ,5 religion,"5, some gatherings",,,private gardens,
+,,,,,,,,,,,,,,,,,,,,,,,,,,live performances,some events ,50% capacity indoors,50% capacity indoors ,,,immeditate family only,household
+,,,,,,,,,,,,,,,,,,,,,,,,,,PCR test,pcr-test ,>6 indoors,6 indoors,,,>6 adults,6
+,,,,,,,,,,,,,,,,,,,,,,,,,,100/500,"100 indoors, 500 outdoors ",cinemas,,,,>20 weddings,20 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,25% indoors,25% capacity indoors ,places of worship,some gatherings,,,social bubble indoors,household
+,,,,,,,,,,,,,,,,,,,,,,,,,,political events,some events ,<25 people or 25% of full capacity of meetings and social events in some counties,"25, some gatherings",,,>150 indoor/25% capacity funerals/weddings,150 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,700,700,houseold only,household,,,gradutaion parties >10,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 200,200 indoors ,>100 without permission,100,,,Funerals 15,15 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor sports,some events ,up to 66% with permission,66% capacity,,,150 religious,150 religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,>500 by special arrangement,500,5000 indoors,5000 indoors,,,2 hours indoors,religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,2m,,>250 outdoor,250 outdoors ,,,150 religion,150 religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,Demonstrations,some events ,indoors >75,75 indoors ,,,25 religious services,25 religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,unvaccinated,unvaccinated ,outdoors >150,150 outdoors,,,funerals 20 indoors or 30 outdoors,"20 indoors, funerals, 30 oudoors, funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cultural events,some events ,<10 indoors,10 indoors,,,Weddings >10,10 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Friday prayer,some gatherings ,indoor: 75% capacity,75% capacity indoors ,,,Funnerals >20,20 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,wakes,,outdoor: 100% capacity,100% capacity outdoors ,,,Social gatherings,all gatherings
+,,,,,,,,,,,,,,,,,,,,,,,,,,St Patrick's Day,,indoor: 25%,25% capacity indoors ,,,funnerals,funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,social events,some events ,indoor: 50%,50% capacity indoors ,,,outdoor activities,outdoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,200 stadia,"200, some events ",33% capacity religious events,"33% capacity, some gatherings",,,>20 at weddings,20 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,300 indoor,300 indoors ,phase 1 25,"25, zones",,,20 indoor funerals,20 indoor funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,10000 outdoors,10000 outdoors,phase 2 50 indoor,"50, zones",,,2 holidays,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,Passover,public holiday ,percentage of max occupancy,,,,30 indoors,30 indoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 400,400 indoors ,max 50% occupancy,50% capacity,,,Same houseold only,household
+,,,,,,,,,,,,,,,,,,,,,,,,,,politcal rallies,some events ,>250 with restrictions,250,,,Funerals and memorial services,funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,vaccinated individuals,vaccinated ,Public events and gatherings,all,,,all private gatherings,all gatherings
+,,,,,,,,,,,,,,,,,,,,,,,,,,negative COVID test,pcr-test ,Beaches,,,,funerals and marriage,"funerals, weddings"
+,,,,,,,,,,,,,,,,,,,,,,,,,,religious events,some events ,Cinemas,,,,Funerals open spaces,funerals outdoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,500 outside,500 outdoors ,museums,,,,300 people,300
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 100,100 indoors ,Authorised by local authorities,,,,weddings > 20,20 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 300,300 outdoors ,150 conferences,"150, some gatherings",,,Funderal,funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,arts,some events ,2 household bubble,2 households,,,Traditional ceremonies,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All  events,all events ,capacity limits,capacity cap ,,,>15 indoors,15 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor communal sports,some events ,private gatherings,,,,"indoor weddings: 0
+outdoor weddings: <1000","1000 outdoors, 0 indoors, weddings"
+,,,,,,,,,,,,,,,,,,,,,,,,,,event centres,,200  green zones,"200, zones",,,funerals 12,12 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,elections,,100 red zones,"100, zones",,,Tourists,
+,,,,,,,,,,,,,,,,,,,,,,,,,,150 sports,"150, some events ",Kurdistan,,,,Non-essential gatherings,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,all gatherings ,all gatherings ,outdoors 250,250 outdoors ,,,non-essential meetings,some gatherings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,all public events,some events ,Ramadan gatherings,public holiday ,,,indoor gatherings,indoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor 1000,1000 outdoors ,Social Gatherings,some gatherings,,,>25 people,25
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor 500,500 indoors ,churches,,,,Resturants,
+,,,,,,,,,,,,,,,,,,,,,,,,,,private gatherings,,50 for business gatherings,"50, some gatherings",,,Social activities,
+,,,,,,,,,,,,,,,,,,,,,,,,,,20 indoors,20 indoors ,international events,,,,>25 weddings,25 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,protests,some gatherings ,mass gatherings,,,,Matai Title ceremonies,
+,,,,,,,,,,,,,,,,,,,,,,,,,,election campaign,some gatherings,50 religious,"50, some gatherings",,,50 couples,50
+,,,,,,,,,,,,,,,,,,,,,,,,,,theatre,,50% indoors,50% capacity indoors ,,,5 other,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,all gatheringa,all gatherings ,weekends,,,,Celebrations >5,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,All  gatherings,all gatherings ,during curfew,,,,large events,
+,,,,,,,,,,,,,,,,,,,,,,,,,,6>,,fitness groups >20,"20, some gatherings",,,All Gatherings,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,5 religious gatherings,some gatherings,Zones,zones,,,48 weddings,48 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,50 religious gatherings,"50, some gatherings ",indoor spaces,indoors ,,,>20 at Weddings and Funerals,"20 weddings, 20 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Large gatherings,all gatherings ,6 indoor sports,"6 indoors, some gatherings ",,,Weddings: up to 10 ppl,10 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Entertainment,,any gathering,all,,,Funerals: up to 20 ppl,20 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cultural gatherings,some events ,100% capacity outdoor; 75% indoor,"100% capacity outdoors, 75% capacity indoors ",,,weddings 250,250 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,music events,some events ,non-essential businesses,,,,>5 weddings,5 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,All public gatherings,some gatherings ,25 sports,25 sports ,,,<8 gatherings,8
+,,,,,,,,,,,,,,,,,,,,,,,,,,<50 people,50,ski groups,,,,>100 weddings and funerals,"100 weddings, 100 funerals "
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 1,zones,beaches and parks,,,,Foreign workers,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Conventions,some events ,indoor sports events,"indoors, some gatherings ",,,50 Funerals,50 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors >75,75 indoors ,30% capcaity,30% capacity ,,,<50,50
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors >150,150 outdoors ,0.3,30% capacity ,,,40 outdoors,40 outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,multiple counties,zones,all performances,some gatherings,,,funerals 50 indoors,"50 indoors, funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,graduation,some events ,"outdoor
+50 place of worship","50 outdoors, some gatherings ",,,10 weddings and funerals,"10 weddings, 10 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,> 500 outdoors,500 outdoors ,same household,household,,,Non-contact sports,sports 
+,,,,,,,,,,,,,,,,,,,,,,,,,,large venues,,>250 outdoors,250 outdoors ,,,1/3 capacity,33% capacity
+,,,,,,,,,,,,,,,,,,,,,,,,,,areanas,some events ,indoors: household,household indoors,,,all gatherings outside the home,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,66% capacity or >250,250,outdoors 10,10 outdoors,,,>5 in public places,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,Concert halls,some events ,indoors: 10,10 indoors,,,all gatherins,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,>1000 outdoors,1000 outdoors ,outdoors: 25,25 outdoors ,,,partial curfew,
+,,,,,,,,,,,,,,,,,,,,,,,,,,economic,,>10 christmas gatherings,"10, public holiday ",,,all social gatherings,some gatherings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,50 Sports events,"50, some events ",0 indoor sports,"indoors, some gatherings ",,,social events,some gatherings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% capacity up to 150,150,>8 indoor,8 indoors ,,,10 private gatherings,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,2000 seated outdoors,2000 outdoors ,6 unvaccinated,"6, unvaccinated ",,,indoor 15,15 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,congregational prayers,some gatherings ,Quarantined regions,zones,,,1500 outdoors,1500 outdoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,Live performances,some events,All regions,zones ,,,50% indoors,50% capacity indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Public gatherings,some events ,Number allowed varies,zones,,,indoor 25,25 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Khmer New Year,public holiday ,mobility pass,,,,cemeteries,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Authorised by local authorities,,crowd prevention,,,,wedings,weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious Mass gatherings,some events ,group activities,all,,,Unnecessary gatherings,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,recreational,,Public spaces,,,,eating out,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sporting events ,some events ,>8/room Karaoke and party rooms,,,,hotels: banquets 40,40 banquets
+,,,,,,,,,,,,,,,,,,,,,,,,,,120,120,Team sports >4,"4, some gatherings ",,,hotel room 4,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,PCR-test,pcr-test ,religious 50%,"50% capacity, some gatherings",,,weddings/ceremonies 20,20 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,all festivals,some events ,Skating >4,,,,>15 funerals,15 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,>12,,4 exc tours 30,,,,indoors 250,250 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,<1000,1000,weddings and business meetings w/o food 50,,,,indoors 450 vaccinated,"450 indoors, vaccinated "
+,,,,,,,,,,,,,,,,,,,,,,,,,,60%,60% capacity ,5 indoors family,5 indoors ,,,outdoors 350,350 outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,> 10,10,350 outdoors,350 outdoors,,,outdoors 500 vaccinated,"500 outdoors, vaccinated "
+,,,,,,,,,,,,,,,,,,,,,,,,,,1500 indoor,1500 indoors ,5000 outdoor,5000 outdoors ,,,10 personal gatherings; 350 lunch/dinner for weddings,weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,4000 outdoors,4000 outdoors ,small events,some events ,,,Ramadan,religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,75 outdoors,75 outdoors ,all  sports,some gatherings,,,FILL TARGET,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% indoors,50% capacity indoors,Village events,some gatherings,,,funerals >20,20 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,funerals 10,,large social gatherings,some gatherings,,,dining areas,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cricket,some events ,sports activities,some gatherings,,,restaurants,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Holi,public holiday ,religious practices and activities in public areas,some gatherings,,,unvaccinated,unvaccinated 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious events,some events ,Film,,,,>200 weddings,200 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,All gatherings >1000 people,1000,Friday prayers outside of major cities,some gatherings,,,Public gatherings,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,New Year celebrations,public holiday ,daily prayers,some gatherings,,,25 weddings and funerals,"25 weddings, 25 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Protests,some gatherings ,all large public gatherings,,,,weddings 50% capacity,50% capacity weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Eid al Adha prayers,some gatherings ,wakes,,,,funerals 100,100 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,permits,,Choirs,,,,All events,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indoor events,,Bands,,,,Large gatherings,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Outdoor rallies,"outdoors, some events ",Purim: 10 indoors,"10 indoors, public holiday ",,,Marriages,weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,200 cultural events,"200, some events ",Church services,some gatherings,,,all >15,15
+,,,,,,,,,,,,,,,,,,,,,,,,,,400 sports,"400, some events ",hospital visits,,,,funerals <100,100 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,1500 outdoors,1500 outdoors,churchs,,,,Outdoor non-contact sports and activities,sports 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Tournaments/spectators not allowed,some events ,social gathergins,some gatherings,,,leisure,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25 sports,25 some events ,200 wedding,,,,wake 30,30 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,25 religious,25 some events ,200 funerals,,,,graveside 50,50 burials 
+,,,,,,,,,,,,,,,,,,,,,,,,,,QR code,covid-pass ,Trainings and Meetings,some gatherings ,,,wedding venue 50%,50% capacity weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,trade-fairs,,3000,3000,,,all gatheringa,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,30 events,30,Children's play venues,,,,>6 outdoors,6 outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor 50% capacity,50% capacity indoors ,vaccinated individuals,vaccinated ,,,outdoor gatherings,outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor maximum capacity,100% capacity outdoors ,unrestricted if vaccinater,vaccinated ,,,>10 indoors,10 indoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor: 250,250 outdoors ,>50 (religion),"50, some gatherings ",,,>25 outdoors,25 outdoors 
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor:  200,200 indoors ,<500 outdoor,500 outdoors ,,,faith-based,religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,library events,some events ,Places of worship <25%,"25% capacity, some gatherings ",,,10 public,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,Public meetings,some events ,>10 Places of worship,"10, some gatherings ",,,15 home gatherings,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Number allowed varies by region,zones,indoor 10,10 indoors ,,,100 religious,100 religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,mobility pass,,diplomats,,,,Sports and teams,sports 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Tourism locations,zones,>25% public gatherings,25% capacity,,,weddings >20,20 weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,lunar new year,public holiday ,30 exc polling stations,,,,funerals >50,50 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,Multi large events,all events ,top-level sports training,some gatherings ,,,10 weddings; 20 funerals,"10 weddings, 20 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,lunar New Year,public holiday ,30 weddings & funerals,,,,>10 funerals,10 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,all big events,all events ,>500 outdoors,500 outdoors ,,,75 private gatherings in places of worship,75 religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,national festival,some events ,>100 people,100,,,wedding or birthdays,weddings 
+,,,,,,,,,,,,,,,,,,,,,,,,,,capacity limits,,Business,,,,40 weddings,40 weddings
+,,,,,,,,,,,,,,,,,,,,,,,,,,specific exhibition,some events ,schools,,,,100 indoors,100 indoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,fesitvals,some events ,gatherings > 100,100,,,250 outdoors,250 outdoors
+,,,,,,,,,,,,,,,,,,,,,,,,,,ChinaJoy,,religious congregration,some gatherings ,,,>75 weddings and funerals,"75 weddings, 75 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indoor >100,100 indoors ,Religious congregration,some gatherings ,,,informal >10,10
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor >500,500 outdoors ,Gatherings more than 20,20,,,formal >20,20
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cultural and leisure events,some events ,Government meetings,some events ,,,funerals > 40,funerals 40 
+,,,,,,,,,,,,,,,,,,,,,,,,,,trains,,20 outside workplace,20,,,Prohibition of smoking and barbaques,
+,,,,,,,,,,,,,,,,,,,,,,,,,,New Year's Eve events,public holiday ,<50 indoor spaces,50 indoors ,,,mandatory social distancing,
+,,,,,,,,,,,,,,,,,,,,,,,,,,large festivals,some events ,>50 religion,"50, some gatherings",,,Individual sports,sports
+,,,,,,,,,,,,,,,,,,,,,,,,,,Lantern Festival,public holiday ,Public venues 25% capacity,,,,indoor dining,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public outdoor gatherings,,25-50% capacity,20% capacity,,,private and family get-together events,all
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports 1000,"1000, some events ",>300,300,,,monitoring compliance,
+,,,,,,,,,,,,,,,,,,,,,,,,,,conference 500,"500, some events ",1 per 15m2,,,,alcohol outside the home,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all mass events,all events ,1 per 10m2,,,,chrismtas gatherings,
+,,,,,,,,,,,,,,,,,,,,,,,,,,40% outdoors,40% capacity outdoors ,50% theatres,,,,>8 beaches,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Radisson Blu Larnaca International Marathon,,250 sports,"250, some gatherings ",,,Mosques,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<500 indoors,500 indoors ,all religious services,some gatherings ,,,Funerals 10,10 funerals 
+,,,,,,,,,,,,,,,,,,,,,,,,,,<1000 outdoors,1000 outdoors ,all public events,some events ,,,household members +5,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,all indoor sports,"indoors, some events ",public  gatherings,all,,,5 (religious observance),5 religion
+,,,,,,,,,,,,,,,,,,,,,,,,,,vaccine passport,vaccinated ,outdoor gathering,,,,10 (weddings funerals),"10 weddings, 10 funerals"
+,,,,,,,,,,,,,,,,,,,,,,,,,,Drive-through,,campsites,,,,4 (hospitality),
+,,,,,,,,,,,,,,,,,,,,,,,,,,childcare centres,,30 outdoors number restriction,30 outdoors ,,,funeral/cremations (<30),30 funerals
+,,,,,,,,,,,,,,,,,,,,,,,,,,1000 outdoors;,1000 outdoors ,outdoors 20,20 outdoors ,,,exercise groups (<10),10 sports 
+,,,,,,,,,,,,,,,,,,,,,,,,,,1500 indoors,1500 indoors ,outdoors 30,30 outdoors,,,beach/park (<5),
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 600,600 indoors ,Sports events,some gatherings ,,,all,all gatherings
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 1000,1000 outdoors,baptism,,,,funerals outdoors,"funerals, outdoors"
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 3000,3000 indoors ,Movie theatres,,,,Covid passport,covid-pass
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 9000,9000 outdoors ,Theatres 50%,,,,not limit,no limit
+,,,,,,,,,,,,,,,,,,,,,,,,,,600 indoors,600 indoors , religious 10,"10, some gatherings ",,,screening,screening
+,,,,,,,,,,,,,,,,,,,,,,,,,,>500 outdoors by special arrangement,500 outdoors , funerals  10,,,,no_limit,no limit
+,,,,,,,,,,,,,,,,,,,,,,,,,,<5000,5000,all measures,,,,covid pass,covid-pass
+,,,,,,,,,,,,,,,,,,,,,,,,,,5000 sporting events,"5000, some events ",kjjj,,,,no-limit,no limit
+,,,,,,,,,,,,,,,,,,,,,,,,,,35%,35% capacity ,<200,200,,,news,news
+,,,,,,,,,,,,,,,,,,,,,,,,,,fairs 5000,"5000, some events ",All Gatherings,all gatherings ,,,all gatherings no limit,"all gatherings, no-limit"
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports 5000,"5000, some events ",10 religion,"10, some gatherings ",,,RT-pcr,"antigen test, pcr-test"
+,,,,,,,,,,,,,,,,,,,,,,,,,,festivals 5000,"5000, some events ",10 public gatherings,10,,,non-limit,no limit
+,,,,,,,,,,,,,,,,,,,,,,,,,,Political rallies exempt,,20 funerals,,,,no policy,no policy
+,,,,,,,,,,,,,,,,,,,,,,,,,,arts events,some events ,25% capacity sports,"25% capacity, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Oktoberfest,public holiday ,>6 indoor sports,6 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,canivals,some events ,>15 support groups,"10, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Thessaloniki International Fair,some events ,Pubs,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Grand Festival,some events ,restuarants,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,State commemoration of the 1848 revolution,public holiday ,children's sports,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,European Aquatics Championships,some events ,10.5,"5, 10",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,St. Stephen s Day,public holiday ,10.25,"10, 25",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor cultural events,"outdoors, ]some events ",50% capacity religious events,"50% capacity, some events ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,new years parites,public holiday ,holiday gatherings,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-contact sports >50,,faith-based,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,100 spectators,100,protests,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all sports events,some events ,>three households,3 households,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<16years,,25 in state forests,"25, some gatherings",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,religious mass,some gatherings ,Indoor: 25,25 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports teams >20,"20, some gatherings ",Outdoor:150,150 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,religious activities,some events ,Over 1,1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious sites,some events ,000 people,1000,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Mass events,all events ,Over 50 people,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Friday prayers,some gatherings ,region 4,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,ramdan gatherings,some gatherings ,single household indoors,1 household indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,cultural gatherings,some gatherings ,45,45,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public events; non essential businesses,some gatherings ,>50%,50% capacity ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,100 sports events,"100, some gatherings ",25% or 50 outdoor,50 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>2000,2000,>10 indoors private,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,performaces,some events ,>25 indoors events,25 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Purim,public holiday ,concert venues,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,40% indoors,40% capacity indoors ,and indoor and outdoor performance venues,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors: 500,500 outdoors ,parking lot religious service,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors: 501,500 outdoors ,25% or 250 indoors,250 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indoors: 100,100 indoors ,25% or 500 outdoors,500 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,rapid tests,antigen test ,500 large outdoor venues,500 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports events without audience,some events ,workplace events and gatherings,some events ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors:500,500 indoors ,capacity limits on gatherings,capacity cap,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors:1000,1000 outdoors,13 counties,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors: 2500,2500 indoors ,hotspot counties,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors:5000,5000 outdoors ,<20 outdoors,20 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,280 outdoors,280 outdoors ,Crowd limitations on K-12 xtra-curricular activities,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Selected events,some events ,except 4 counties,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Olympics,some events ,89 counties,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ceremonies,some events,66 counties,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,100 indoor 200 outdoor,"100 indoors, 200 outdoors ",indoor: 50% capacity,50% capacity indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,New years,public holiday ,Thanksgiving gatherings,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All gatherings except wedding and funerals,,>100 Gatherings,100,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,social and political gatherings,some gatherings ,>10 gatherings,10,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Al large gatherings,all gatherings ,any gatherings,all,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All large gaterings,all gatherings ,>10 religious events,"10, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All political gatherings,some gatherings ,500  outdoors,500 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Large gatherins,all gatherings ,Worship,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Large public gatherings,some events ,spiritual gatherings,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,large social gatherings,some events,funeral ceremonies,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,120 inside,120 indoors ,wedding ceremonies,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sporting 2500,"2500, some events ",Halloween,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,political gatherings 200 inside,"200 indoors, some gatherings ",Events 25,25,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 701,700 outdoors ,other recommend limit 10,10,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Some activities,some gatherings ,Any <6 ft,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports competitions,some events ,base 10,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,no restriction,,phase 1 25 with distancing,"25, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,tourism,,Labor Day holiday,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,area based,zones ,indoor >10,10 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,White Moon Festival,public holiday ,indoor/outdoor events >50,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,political rallies; sporting events; Religious gatherings,some events ,high-risk counties,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,trade fairs,some events ,>10 except places of worship,10,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,seminars,some events ,weddings and funerals,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>250 geligion,"250, some events ",social distancing and masks,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,100 weddings,,no limit for green zone,"no limit, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>500 people,500,<50 yellow zone,"50, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>100 people,100, or 50% capacity,"50% capacity, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Major sports events,some events ,900 outdoors,900 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,national day celebrations,public holiday ,private >10,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,restricting,,public 25% capacity,25% capacity ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,obeher,,bars and restaurants 25% capacity,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor 50,500 outdoors ,50 events,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,7000,7000,Emergency gatherings,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,cultural activities,some events ,1000 religion,"1000, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all gatheerings,all gatherings ,Fairs,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% events,50% capacity,some recreation,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% sports,50% capacity ,public events prohibited; museums and cultural attractions 50%; prohibition on beaches,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,1 person per 4sqm,,public swimming pools,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,250 sports,"250, some events ",and all naval clubs,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,30% capcaity,30% capacity ,religious gatherings 4 days per week,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,F1 Grand Prix,some events ,Religious activities; funerals 10; covid funerals 5,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% agricultural exhibitions,"50% capacity, some events ",5 exercise groups,"5, some gatherings",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,festivals and fairs and activities,some events ,All private or public gatherings,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,VE day celebrations,public holiday ,all gatherings zones,"all gatherings, zones ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Kwibuka,zones ,all social gatherings,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,including Religious events,,sporintg eventing,some events ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,> 6,,outdoor weddings/funerals >30,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% - 75% capacity,50% capacity ,>80,80,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Unknown,,Sporting Activities,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,250 worship service,"250, some events ",Easter,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50 other times,50,Sports and teams,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,annual meetings,some events ,>50 outside religious gatherings,50 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Student celebrations,some events ,>10 outside,10 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,300 cultural events,"300, some events ",2000 seated outdoors,2000 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 3000,300 outdoors ,300 corporate functions,"300, some events ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports 900,"900,some events ",20 Outdoor religious gatherings,"20, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Norouz celebrations,public holiday ,70 outside and 40 inside hospitality venues,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public gatherings <25,25,Prayers at mosques,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sporting events; groups <25,25 some events ,collective worship and religious assemblies,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,22,22,All except prayers,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports gatherings,some gatherings ,75 excl weddings,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,economic gatherings,some gatherings ,75 with multiple exceptions,75,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25% capacity sports,"25% capacity, some events ",conferences and seminars,some events ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all atherings,all gatherings ,Religious activities reduced to 1/3 capacity,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,full capacity indoors,100% capacity indoors ,50% hospitality capacity,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,60% capacity,60% capacity ,Religious gatherings 1/3 capacity,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 1500,1500 indoors ,Khmer New Year,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 2500,2500 outdoors ,and nightclubs,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,English Football League,some events ,shops,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,500 sports,"500, some events ",theaters,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,st patricks day,public holiday ,culture,some events ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,professional sport,some events ,national parks,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Drive-in events,some events ,sites of public gatherings,all,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Outdoor events,,>50 prohibited,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,500 seated,500,all gatherngs,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,4000 standing,4000,50 percent occupancy theatre and cinemas,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,10000 sitting,10000,Cultural exhibitions,some events ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor 1000 sitting,1000 indoors ,50% outside only,50% capacity outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor 200 standing,200 indoors ,all gatheings,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,4th July celebrations,public holiday ,16,16,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,single household,1 household ,<10 in red areas,"10, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Washington university sports,some events ,club meetings,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,adult sports,some events ,multiple categories of social activity,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>0,0,>200 indoors,200 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,holiday gatherings,public holiday ,All meetings,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all public gatherings >5; faithbased <50,"5, some gatherings",indoors 100,100 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors >10,10 indoors ,International meetings,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors >25; faithbased 25% capacity,"25 outdoors, 25% capacity, some events ",public ceremonies,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25% capacity of previous year,,religious ceremonies,some events,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,large non-essential public events,all events ,beach access,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25% capacity at sports events,"25% capacity, some events ",> 50,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% capacity sports events,"50% capacity, some events ",no restrictions,all,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>25% capacity outdoors,25% capacity outdoors,Eid gatherings,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,< 1,0,Eid gatherins,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All public and private gatherings,all gatherings ,Risk areas,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,state fairs,some events ,wedding 300,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 5,zones,markets,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Regions 4 and 10,zones,<25 inside,25 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 11,zones,<50 outside,50 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 9,zones,social gatherings: > 10,10,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 3,zones,>20 registration; religious 50,"20, some gatherings, 50, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 6,zones,all agtherings,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Region 2,zones,Private meetings in public areas,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all counties except 1,zones,weddings <50,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Special or seasonal events,public holiday ,funerals <30,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<250 or approval,250,religious activities <20,"20, some gatherings",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Gatherings of <50,50,>49,49,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All gathernigs at 50% capacity,50% capacity,indoor >50,50 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>25 indoor event venues,25 indoors ,outdoor >100,100 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,12% capacity,12% capacity ,Gatherings in businesses,some events ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sporting events without audiences,some events ,Indoor>50,50 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>20 outdoors,20 outdoors ,ourdoor >100,100 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,two households,2 households ,stadiums 30%,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>25  outdoors,25 outdoors ,Public places,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Halls,,Outdoor spaces,outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,centers and arenas,some events ,max capacity 50,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,limited capacity,,up to 50 ppl,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indoor and outdoor recreational activity,,Selected mosques,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,social distancing and screening required,screening ,up to 250 ppl allowed split in 5 zones of 50 ppl each,250,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,K-12 extracurricular activities,,100 religious services,"100, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% capacity outdoors,"outdoors, 50% capacity ",250 for business gatherings,"250, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25% capacity indoors,25% capacity indoors ,Religious services all,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Governor's Mansion event,,adult parties,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,most counties,zones ,amateur sports,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor: 75% capacity,75% capacity indoors,except essential services,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor: 100% capacity,100% capacity outdoors,Parties,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Outdoor youth sports,some gatherings ,<30 funerals,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,education,,40% capacity,40% capacity ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,vaccination,vaccinated ,90 indoors,90 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>50 indoors and >100 outdoors,"50 indoors, 100 outdoors ",125 outdoors,125 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>100  indoors and > 250 outdoors,"100 indoors, 250 outdoors ",>250 indoors,250 indoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>150 outdoors,150 outdoors ,religious ritual services,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Horse racing,some events ,public spaces,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.33,33% capacity ,organised gatherings,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>50% capacity,50% capacity ,50% & max 25,25,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Arnold Sports Festival,some events ,120 outdoors,125 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,fairs and festivals,some events ,indoor 50,50 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,graduation ceremonies,some events ,indoor 15,15 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Independence Day fireworks shows,public holiday ,"outdoor
+>50 place of worship","50 outdoors, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Memorial Golf Tournament,,5o indoor,50 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Kids sports,some gatherings ,1500 outdoors,1500 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,contact and non-contact sports,some gatherings ,indoor 200,200 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cleveland Browns,,indoors: 25 outdoors: 50,"25 indoors, 50 outdoors",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cincinnati Bengals,,holidays,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Honda Indy 200,,Metropolitan Park on weekends,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors >250,250 outdoors ,sports 500,"500, some events ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,celebrations indoors: >75,75 indoors ,50 with plan,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>125,125,inter-regional travel,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-contact attractions,,NEWS,news,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,occupancy limits,,no gatherings,all ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,multiple households,multiple households ,youth sports,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public events with strict guidelines,some events ,75 indoors and 150 outdoors catering establishments,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,10ft distance,,75 in churches,"75, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,6ft distance,,6000 indoor,6000 indoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>1000 for yellow,"1000, zones",12000 outdoor,12000 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,orange,zones ,>12,12,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,phase green unlimited public events,zones,Seine,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,, or 50% capacity,50% capacity ,>30 indoors,30 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,300 indoors,300 indoors ,dining >4,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,900 outdoors,900 outdoors ,family >6,6,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public  events,some events ,gatherings >5,5,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-essential events,some events ,Ceremonies and social events,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,large outdoor gatherings,"outdoors, some gatherings",15 outdoor events,15 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,live outdoor performances,"outdoors, some events ",cordon sanitaire,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,school band festivals,some events ,Art/social/educational events must be conducted remotely;  < 500 people indoors,"500 indoors, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,live music events,some events ,<500 indoors,500 indoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,rodeos,some events ,300 outdoos,300 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public events and religious gatherings,"some events, some gatherings ",500 unvaccinated,"500, unvaccinated ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,10 sports events,10 some events ,4 households,4 households,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,10000 pop concerts,"1000, some events ",All gatherings at the beach,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25% capacity for outdoor venues >40.000 people,25% capacity outdoors,All non-essential,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,20% max in venues,20% capacity ,Festivals,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% capacity seated events,"50% capacity, some events ",religion 50% capacity,"50% capacity, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>10000 stadiums,10000,weddings and burials,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>3000 outdoors,3000 outdoors ,indoors 75% capacity,75% capacity indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>5000 outdoors,"5000, outdoors ",<10 Lisbon <20 rest of country,"10, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sydney-to-Hobart yacht race,,religious establishments,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ramadan gatherings,public holiday ,outdoors 35,35 outdoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ashura gatherings,public holiday ,Arges and Dambovita,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Govt events,some events ,PCR-test,pcr-test ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious activities reduced to 1/3 capacity,"33% capacity, some events ",Fitness,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Khmer New Year gatherings,public holiday ,smoking outdoors,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Water Festival gatherings,public holiday ,all gatheringa,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All rallies,some events ,Festivities,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Large scale public gathering venues,,Parks,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Interior region,zones ,>15 sports,15 sports,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,non essential gatherings,all gatherings ,gatherings <50,50,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,199,199,household members,household,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Friday congregational prayers,some gatherings ,all counties,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Government employees,,1000 indoors,1000 indoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Catholic,,vaccination rate,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Movie theaters,,25o outdoor,25 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,,50% capacity up to 150,150,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,100 in red zones,"100, zones ",50 outdoor religious gatherings,"15 outdoors, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,independence day,public holiday ,Entertainment,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,weddings >50,,Weddings: 10/funerals: 10,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,funerals >20,,tourism,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Eid al Adha gatherings,public holiday ,All religious gatherings,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Newroz holiday celebrations,public holiday ,public events and gatherings,all,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Mass gatherings > 100,100,199,199,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Meetings and gatherings,all gatherings ,New Year Celebration,public holiday ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,major public event,some events ,religious services 25%,"25% capacity, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sorting events,some events ,all gatherings.<4,"4, zones",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Carnival,some events ,Grocery stores,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,entertainment and sports activities in public space,some gatherings ,bakeries and pharmacies 5,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports with  no public,some events,informal >20,"20, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sport cultural events,some events ,formal >40,"40, some gatherings ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,prayer congregations except in Sindh province,"some gatherings, zones ",Mosques,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Haj pilgrims,public holiday ,40 outdoors,40 outdoors ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<75 inside,75 indoors ,80 indoors,80 indoors,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<150 outside,150 outdoors ,low-risk areas,zones,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,10% capacity,10% capacity,religious celebrations,some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Specific provinces,zones ,private gatherings <5,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Stadium Sports,some events ,100 or 200 if vaccinated,"200, vaccinated ",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Rallies >10,10 some events ,household +1,1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Holiday events,public holiday ,>50 (funerals),,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Public spaces,,>5 (wedding),,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Jounen Kweyol activities,public holiday ,>10 (funerals),,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,3ft physical distancing,,sports (children),some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,matai ceremonies >50,"50, some gatherings ",Outdoor groups sports (adults),some gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,opening ceremonies >50 couples,,public gatherings (>10),10,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Umrah gathering,public holiday ,all,all gatherings ,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>75% Umrah,"75% capacity, public holiday",household indoors,"household, indoors",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>50% Umrah,"50% capacity, public holiday ",no limit outdoors,"no-limit, outdoors",,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious: 250,"250, some events ",non-vaccinated,unvaccinated,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indoor live performances,"indoors, some events ",houshold,household,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,2 zones of up to 50 ppl,50,vaccination,vaccinated,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,two zones of 50 audience members,50,screening,screening,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,rapid testing for events,antigen test ,some events,some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Media and Arts Related Events,some events ,covid-ass,covid-pass,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All cultural events,some events ,unvacinated,unvaccinated,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Qing Ming festival,some events ,forms,covid-pass,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>100 indoors,100 indoors ,public holidays,public holiday,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>250 outdoors,250 outdoors ,news,news,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Eid-Al-Adha prayers,public holiday ,no policy,no policy,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,4-,40,non-limit,no limit,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,40 outdoors,40 outdoors ,other,other,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor sport tournaments,"indoors, some events",some gatherings (weddings are allowed),some gatherings,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,nostalgia night,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,football tournament,some events,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,equestrian events,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,mass parties,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,National events,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,30% cpacity,30% capacity ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,culture event,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,assigned seats,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,closed spaces,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,750 outdoor,750 outdoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% capacity & max 25,25,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<300,300,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,3000 Bulgarian cup final,"3000, public holiday ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Indoors: 150,150 indoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors: 250,250 outdoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,3500,3500,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,professional football,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,town gatherings,some gatherings,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,marathon,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,many events,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,tourist spots,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all public venues,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all public/cultural events,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,IntnlBeer Festival,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,summer cooling services,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,book fair,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,spring festival events,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,national fitness day,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,COVID pass,covid-pass ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Max group size; Harju & Ida-Viru,zones ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Parties,some gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>9,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Outdoor Events,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports events groups of >20,"20, some events ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Cultural and social events and conferences,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,professional/elite/inter-county/club championship/horse-racing,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors 1000,1000 indoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoors 5000,5000 outdoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,300 outdorrs,300 indoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,500 covid pass,"500, covid-pass ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,vacinated,vaccinated ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Red zone counties,zones ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor events,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,25 000,25000,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Beach activities,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,antigen test,antigen test ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,religioous gatherings,some gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,demonstrations 1800,"1800, some gatherings ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Day of the capital,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor spaces,indoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Certain states,zones ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,New year gatherings,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all live events,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,400 GAA matches,"400, some events ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,stadia no spectators,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,covid-pass,covid-pass ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,city events,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,household only,household,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,St Patrick's Day Parade,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50000,50000,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,<50 Events,50,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,limited to capacity,100% capacity ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,major events,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor: 25%,25% capacity indoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor 100%,100% capacity outdoors ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>50 for yellow,"50, zones ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,large outdoor events,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-specific large gatherings,all gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Spontaneous festivals,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>300 outdoors,300 outdoors,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,500:2 sqm; 10000:approval; 30:indoor,"30 indoors, 500 outdoors ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,0.75,75% capacity ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All non-essential,all gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Religious gatherings 1/3 capacity,"33% capacity, some gatherings ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Muslim Religious gatherings,some gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,festival celebrations,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Angkor Sankranta Festival,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,national day parade,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sports and hospitality,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Ful curfew,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Independence Day celebrations,public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,state gatherings50,50,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,>200 outdoors,200 outdoors,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,religious celebrations,some gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,gatherings in the capital,some gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Gingerama Festival,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,amplified music,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Guidelines for mass gatherings,all gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Concerts,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,religion <20,"20, some gatherings ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,NA,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Baseball (1000 allowed),"1000, some events ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,50% of capacity or all gatherings (based on regional level of epidemic),all gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Football games (playing of),some gatherings ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,rallies (V-day),public holiday ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Fairs (outdoors),"outdoors, some gatherings",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Fairs and exhibitions (indoors),"indoors, some gatherings ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sports events (age groups),some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Mass gatherings (varies by state),"all gatherings, zones",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,Sporting events (football spectators),some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,football (soccer) games,some events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,All gatherings (various limits),"all gatherings, capacity cap ",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all ,all events ,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,]some events,some events,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,household,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,restrictions,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,% capacity,capacity cap,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all education,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoors Covid pass,"indoors, covid-pass",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,restriction,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,covid-pass no limit,"covid-pass, no limit",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,not limit,no limit,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,no-limit,no limit,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,screening,screening,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all event,all events,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,forms,covid-pass,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,no-limit outdoors,"no limit, outdoors",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,outdoor no restrictions,covid-pass,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,booster,vaccinated,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,no-limit,no limit,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor,indoors,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,all gaterings,all gatherings,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,coivid-pass,covid-pass,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,indoor COVID pass,indoors,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,public holidays,public holiday,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,news,news,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,non-limit,no limit,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,seom events,some events,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,sone gatherings,some gatherings,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,no policy,no policy,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,some gathergins,some gatherings,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,me events,some events,,,,,,

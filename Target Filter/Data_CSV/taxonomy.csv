@@ -1,0 +1,71 @@
+"Category_number","Target","Enforcement"
+"1",,"Recommended, required"
+"1.1","Personal, general public",
+"1.2","Personal, general public",
+"1.3","Personal, general public",
+"1.4","public spaces, outdoor spaces, indoor spaces, transport, businesses, education, health, staff, symptomatic, age group, vulnerable groups, non-residents, zones, exercise, vaccinated, unvaccinated, covid-pass, no policy, news","Recommended, required, monitored"
+"1.5","Personal, general public",
+"1.6","Distance: 1m, 2m","Recommended, required"
+"2",,
+"2.1","Private areas, workplaces, businesses, institutions, public areas.","Recommended, required"
+"2.2","Private areas, workplaces/businesses/institutions, public areas.","Recommended, required"
+"2.3","Private areas, workplaces/businesses/institutions, public areas.","Recommended, required"
+"3",,
+"3.1",,
+"3.1.1","Symptomatic individuals, high-risk groups, contacts",
+"3.1.2","Symptomatic individuals, high-risk groups, contacts",
+"3.1.3","Home, facility-based","Recommended, monitored, required"
+"3.2",,
+"3.2.1","Traditional, Technology-enhanced",
+"3.2.2","Home, facility-based","Recommended, monitored, required"
+"4",,
+"4.1",,
+"4.1.1","all education, all schools, non-covid, childcare centres, kindergarten, primary schools, secondary schools, post-secondary schools, other, staff, screening, zones, vaccinated, unvaccinated, covid-pass","Recommended, required, monitored"
+"4.1.2","all education, all schools, non-covid, childcare centres, kindergarten, primary schools, secondary schools, post-secondary schools, other, staff, screening, zones, vaccinated, unvaccinated, covid-pass","Recommended, required, monitored"
+"4.2",,
+"4.2.1","all businesses, non-essential businesses, essential businesses, hospitality, entertainment, fitness, recreation, industry, retail, offices, beauty, tourism, religion, health, venues, other, zones, vaccinated, covid-pass, unvaccinated, news, screening, some businesses","Recommended, required, monitored"
+"4.2.2","all businesses, non-essential businesses, essential businesses, hospitality, entertainment, fitness, recreation, industry, retail, offices, beauty, tourism, religion, health, venues, other, zones, vaccinated, covid-pass, unvaccinated, news, screening, some businesses","Recommended, required, monitored"
+"4.3",,"Recommended, required, monitored"
+"4.3.1","all",
+"4.3.2","all, weddings, funerals, indoors, outdoors, covid-pass, max group size","Recommended, required"
+"4.3.3","all, max group size, conferences, indoors, outdoors, covid-pass","Recommended, required"
+"4.3.4","all, max group size, sporting events, rallies, pop concerts, indoors, outdoors, covid-pass, max group size","Recommended, required"
+"4.4",,
+"4.4.1","Specific high-risk groups, healthcare workers","Recommended, required"
+"4.4.2","Long-term care facility, prisons, group homes, other","Recommended, required"
+"4.4.3","Migrant camps, refugee settlements, internally displaced camps","Recommended, required"
+"4.5",,
+"4.5.1","public transport, private transport, non-essential travel, road closures, inter-regional travel, inter-regional transport, domestic flights, cordon sanitaire, screening, age group, non-residents, zones, covid-pass, news, residents, forms, essential travel, other, vaccinated, unvaccinated, vulnerable groups, students, multiple areas","Recommended, required"
+"4.5.2","partial curfew, full curfew, weekend curfew, stay at home, age group, vulnerable groups, zones, screening, vaccinated, unvaccinated, non-covid, news, screening","Recommended, required"
+"4.5.3","cordon sanitaire, single area, multiple areas, non-essential travel, non-residents, business, workers, tourists, private transport, public transport, pcr-test, screening, quarantine, forms, other, zones, covid-pass, vaccinated, unvaccinated","Recommended, required"
+"4.5.4","all borders, partial borders, single border, non-residents, business, non-essential travel, essential travel, zones, pcr-test",
+"5",,
+"5.1","“Wuhan“ or “Italy“, “High-risk countries“, “low-risk countries“, “All countries“ ""all travellers"" ""business travellers"" ""tourists""",
+"5.2","all visas, residency visas, work visas, tourist visas, visa on arrival, e-visa, visa renewal, asylum, pcr-test, anitgen-test, vaccinated, all countries, multiple countries, single country, high-risk countries, low-risk countries, neighboring countries",
+"5.3","all travellers, citizens, non-citizens, residents, non-residents, non-essential travel, business, education, tourists, family, transit, repatriation, other, symptomatic travellers, forms, entry cap, pcr-test, antigen-test, vaccinated, unvaccinated, mainland, territories, neighboring countries, high-risk countries, low-risk countries, single country, multiple countries, all countries, covid-pass, essential travel",
+"5.4","all travellers, citizens, non-citizens, residents, non-residents, non-essential travel, business, education, tourists, family, transit, repatriation, other, symptomatic travellers, forms, entry cap, pcr-test, antigen-test, vaccinated, unvaccinated, mainland, territories, neighboring countries, high-risk countries, low-risk countries, single country, multiple countries, all countries, covid-pass",
+"5.5","screening, pcr-test, antigen-test, vaccinated, unvaccinated, quarantine, forms, all travellers, high-risk countries, low-risk countries, multiple countries, single country, mainland, territories, borders, neighboring countries, non-residents, residents, citizens, non-citizens, repatriation, symptomatic, business, transit, age group, anitgen test, other, covid-pass, all countries, education",
+"5.6","screening, pcr-test, antigen-test, vaccinated, unvaccinated, quarantine, forms, all travellers, high-risk countries, low-risk countries, multiple countries, single country, mainland, territories, borders, neighboring countries, non-residents, residents, citizens, non-citizens, repatriation, symptomatic, business, transit, age group, anitgen test, other, covid-pass",
+"5.7","all countries, high-risk countries, low-risk countries, multiple countries, single country, repatriation, non-residents, residents, non-citizens, citizens, business, transit, most flights, limited flights, outbound flights, essential travel, non-essential travel, pcr-test, other",
+"5.8","all countries, high-risk countries, low-risk countries, multiple countries, single country, all shipping, all ferries, small boats, cruise ships, other, citizens, non-citizens, residents, non-residents, transit, business, essential travel, non-essential travel",
+"5.9","single border, all borders, multiple borders, mainland, business travel, non-essential travel, non-residents, residents, non-citizens, citizens, vaccinated, unvaccinated, covid-pass, pcr-test, essential travel, other",
+"6",,
+"6.1","Healthcare workers, essential employees, clinically vulnerable, >65 (age group), everyone, hospitals, care homes",
+"6.2","Healthcare workers, essential employees, clinically vulnerable, >65 (age group), everyone, hospitals, care homes",
+"7",,
+"7.1","Healthcare workers, essential employees, clinically vulnerable, >65 (age group), everyone, hospitals, care homes",
+"7.2","Healthcare workers, essential employees, clinically vulnerable, >65 (age group), everyone, hospitals, care homes",
+"8",,
+"8.1","If measure refers to State of emergency, ""Stage of emergency""",
+"8.2",,
+"8.3",,
+"8.4",,
+"8.4.1",,
+"8.4.2",,
+"8.5",,
+"9",,
+"10",,
+"11",,
+"12",,
+"13",,
+"14",,
