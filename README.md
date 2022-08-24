@@ -9,6 +9,13 @@ The target filter iterates through all records and searches WHO codes. If the co
 
 List of invalid targets and their codes are retrieved as a CSV file for manual revision and correction. Corrected targets are added to the look-up table for future data runs.
 
+https://github.com/kopeckylukas/PHSM_Target_Filter/blob/484d6e1df02ae954cf0053c69f2b58b760725a7a/diagram.png
+<p align="center">
+  <img width="460" height="300" src="https://github.com/kopeckylukas/PHSM_Target_Filter/blob/484d6e1df02ae954cf0053c69f2b58b760725a7a/diagram.png">
+</p>
+
+
+
 ## Guide 
 Run code line by line, code is commented to separate different sections. 
 
